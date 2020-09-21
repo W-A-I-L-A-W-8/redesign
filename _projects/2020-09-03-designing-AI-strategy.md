@@ -1,55 +1,23 @@
 ---
 title: Exploring AI
-subtitle: Introducing our new friend, The Chatbot
+subtitle: Introducing our new friend, Smart Travel Assistant
 date: 2020-09-03 00:00:00
 description: This piece is about how we developed a strategy for implenting an AI/ML solution to align with the organisation's strategic priorities and to solve immediate problems.
-featured_image: demo.jpg
+featured_image: chatbot-1.png
 accent_color: '#222'
-# gallery_images:
-#   - demo.jpg
-#   - demo.jpg
-#   - demo.jpg
+gallery_images:
+  - chatbot-1.png
+  - chatbot-2.png
 ---
 
-Implementing the chatbot was the easy part.  Convincing the organisation they needed one was quite the opposite.
 
-Meeting the needs of the consumer whilst aligning with the company's strategic priorities.
 
-![](/images/demo.jpg)
+![](../images/projects/chatbot-1.png)
 
-You can create lists:
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+#### Use of AI in the Travel Industry
 
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
+This emerging technology has been around in the travel space for a number of years now with many recognised brands, such as Qantas, SkyScanner, Expedia, having successfully deployed it across their operations.
 
 #### My Role
 
@@ -57,28 +25,37 @@ For Product Designers a large part of the job is to design products that are gre
 
 #### Pain Points
 
-There were a number of ongoing problems within the organisation that needed addressing as follows: 
-
-* Slow customer service response rates
-* Missing pontential sales conversions
-* Unsatisfactory customer experience
-* Lack of content
+**What were of the problems or opportunities that the organisation were facing right now?**
+Streamlining operations, improve booking experience for customers, dynamic content and increased customer service efficiency.
 
 #### Solution
-chatbot off the shelf solution Amazon Lex.
+AI was to play a big part in helping us to alleviate our pain points. We knew we had to automate more and our goal of completing a digital transformation program to include chatbot implementation and dynamically driven content applications driven by AI was to be instrumental in doing so.  Just as SkyScanner had done before us we were looking at a chatbot solution to become our smart travel assistance. 
 
 #### Why
-better engagement, bridging gap in content, increase revenue, reduce costs.Summary or outcome: KPIs achieved (see keynote doc).
+As a publicly listed, Travel-Distribution Company providing a diverse range of travel wholesale products and services to markets globally, we could see that such a solution had the potential to help the organisation achieve it's strategic priorities.  In doing so it would improve customer engagement and the booking experience.  The benefits could help to build and maintain better relationships, increase efficiencies, reduce costs, engage customers and improve conversions.  It was a great idea to pitch to the stakeholders.
 
-#### Image carousels
+#### Core Ethical Considerations
+If we were going to do this we wanted to do it properly and ethical concerns are big priority in software development especially when artificial intelligence is involved too.  We built a short list of considerations that we felt were important to us as a team and aligned with the organisation's objectives.  I won't talk about it in anygreat length so here's the dot points below:
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+* Transparency - there should be complete transparency to ensure people are fully aware of when they are being impacted by AI.
+Human centred and wellbeing - I believe that AI systems should always respect human rights and diversity and any systems should be the benefit of individuals, society and the environment.
+* Fairness - AI systems should be unbiased and not discriminate.
+* Privacy and security - AI systems should respect people’s privacy and their data and should
+practice a high level of security.
+* Accountable - those involved at different stages of AI system development should be responsible and accountable for their choices and the outcomes.
+* Contestability - in the event that an AI system has had a significant impact on someone, a group, society or the environment they should be permitted to freely challenge the use of the system.
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+#### Key Performance Indicators
+We have chosen to measure the following key performance indicators as they align neatly with the organisation’s strategic priorities.
 
-{% include post-components/gallery.html
-	columns = 1
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
-	"
-%}
+Activity volume | Evaluating the number of interactions from the time the user asks a simple question. 
+Conversation length | Average length of interactions between chatbot and users.
+Comprehension level | This would be continuously evolving. It is a measure of the chatbot’s comprehension and knowledge base.
+Non-response rates | A measure of the number of times the chatbot fails to respond to a question. Can also be measured against comprehension level metric above.
+Retention rate | This is the proportion of users who have consulted the chatbot on repeated occasions.
+User engagement | measuring the number of messages exchanged.
+
+#### Wireframing 
+To support our proposal I began creating wireframes to begin illustrating the main conversation flows and to iron out any usability issues that might arise early on.  The wireframes are also great for getting stakeholders involved in the design process.
+
+<!-- Insert wireframe images from Balsamiq -->
