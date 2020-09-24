@@ -5,15 +5,20 @@ description: Using a static site generator reduced cognitive friction
 featured_image: '/images/demo.jpg'
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+I'm a Jekyll fan boy.  I have been tracking their progress for a few years now and as newer options emerge on the market, the better they seem to get.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-![](/images/demo.jpg)
+![](https://jekyllrb.com/img/jekyll-og.png)
 
 ---
 
+As Jekyll say, it's: 
+
+> “Simple, static, and blog-aware.”
+
+A designers dream tool for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my own site using the platform.
+
 #### Pain Points
+After many years working with WordPress I was finding it increasingly cumbersome.  The experience was somewhat frustrating a
 slow site, easy for a designer to manage.
 
 #### Solution

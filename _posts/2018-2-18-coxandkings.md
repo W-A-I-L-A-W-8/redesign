@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A tale of responsiveness (or rather, lack of it)
+featured_image: '/images/projects/CnK-responsive.png'
 published: true
 ---
 

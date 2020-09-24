@@ -7,10 +7,9 @@ featured_image: chatbot-1.png
 accent_color: '#222'
 gallery_images:
   - chatbot-1.png
-  - chatbot-2.png
 ---
 
-![](../images/projects/chatbot-1.png)
+![Exploring AI](../images/projects/chatbot-1.png)
 
 #### Use of AI in the Travel Industry
 
@@ -53,4 +52,17 @@ User engagement | measuring the number of messages exchanged.
 #### Wireframing 
 To support our proposal I began creating wireframes to begin illustrating the main conversation flows and to iron out any usability issues that might arise early on.  The wireframes are also great for getting stakeholders involved in the design process.
 
-<!-- Insert wireframe images from Balsamiq -->
+To prompt conversation from my working group I first created a wireframes for a desktop view, the conversation types that are currently required and a layout suitable for smaller devices.
+
+![Travel assistant desktop resolution](../images/projects/chatbot-wireframe-desktop.png)
+
+We have identified three main conversation flows below that meet the requirements of the organisation.  Customer Support, Travel Recommendations and Hotel Bookings.  
+
+![Chatbot conversation types](../images/projects/chatbot-wireframe-conversation-types.png)
+
+These will also be available on mobile resolutions where the some of clutter will be removed for a cleaner interface.
+
+![Chatbot mobile](../images/projects/chatbot-wireframe-mobile.png)
+
+#### Progress Report
+The project is still ongoing although it was put on hold temporarily due to COVID.  We successfully pitched our solution and have a verbal approval to proceed.  I created a high level product road map and the next steps are to continue in the design phase and to build a prototype.  UX research will continue.  We have completed a deep dive analysis on products that exist on the market already to illiminate the need to reinvent the wheel   .
