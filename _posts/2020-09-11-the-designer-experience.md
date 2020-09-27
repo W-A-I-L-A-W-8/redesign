@@ -15,14 +15,26 @@ As Jekyll say, it's:
 
 > “Simple, static, and blog-aware.”
 
-A designers dream tool for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my own site using the platform.
+From point of view it has a been dream tool, for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my own site using the platform.  I've been on Jekyll for probably, almost five years now so I wanted to write this piece to illustrate some of the main benefits I've reaped over the last few years and specifically from a Designers eye.
+
+#### What do you need to know in order to get on with Jekyll
+My main vocation is Product Design.  I've familiar with front end developer but I can safely say it's definitely not one of my fortes.  My brain is definitely more geared towards the design side.
+
+Before you continue reading the next part here's a few things to consider before you plough head first into Jekyll.  Not that there's anything wrong with doing so.  After all that's how I got started.  But to help you reduce the amount of frustration you might experience I have listed a few pointers below.  I like to think I'm a half decent designer so a designer's prerogative is to consider the best possible experience.
+
+* Understanding of NPM.
+* Comfortable using a CLI.
+* Knowledge / experienc eof templating languages (preferrably Liquid Templating).
+* Theme customisation.
+* Decent SASS skills so you can customise till your heart's content.
+* Working knowledge of Github of happy to try.
 
 #### Pain Points
-After many years working with WordPress I was finding it increasingly cumbersome.  The experience was somewhat frustrating a
-slow site, easy for a designer to manage.
+After many years working with WordPress I was finding it increasingly cumbersome.  The experience was somewhat frustrating
+slow, and painful to manage.
 
 #### Solution
-Jekyll
+And that's the reason we're here talking about Jekyll.
 
 #### Why?
 
