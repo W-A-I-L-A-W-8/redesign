@@ -34,7 +34,7 @@ After many years working with WordPress I was finding it increasingly cumbersome
 slow, and painful to manage.
 
 #### Solution
-And that's the reason we're here talking about Jekyll.
+And that's the reason we're here talking about Jekyll.  Even for me, I discovered it was ridiculously simple.  What's more simplistic than taking text files and rendering them as HTML.  I enjoy a bit of coding from time to time but as a designer I want to focus on the design stuff and it was no different building my own website.  I wanted a painless, quick solution to get my portfolio up and running.  If only there was a faster way to write case studies.
 
 #### Why?
 
