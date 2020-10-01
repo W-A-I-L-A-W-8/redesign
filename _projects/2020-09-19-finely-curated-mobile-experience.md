@@ -3,18 +3,25 @@ title: Finely Curated Mobile Experience
 subtitle: Enterprise model for delivering a booking experience on mobile devices.
 date: 2020-09-03 00:00:00
 description: Creating a great booking experience on mobile and doing it globally across all products within the organisation.
-featured_image: demo.jpg
+featured_image: 'khoa-nguyen-b839k0lK3Dk-unsplash.jpg'
+gallery_images:
+  - khoa-nguyen-b839k0lK3Dk-unsplash.jpg
 accent_color: '#222'
-# gallery_images:
-#   - demo.jpg
-#   - demo.jpg
-#   - demo.jpg
-published: false
+published: true
 ---
 
+#### From cluttered desktop to tidy small devices
+So, how do you transform this tired, cluttered desktop UI into a finely crafted mobile experience keeping all the features and functionality?  Curation is key.
 
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/projects/rr-hotel-details.png,"
+%}
 
-![](/images/demo.jpg)
+This is a B2B platform for booking and managing hotel reseravtions.  It is not consumer facing, the user is the travel agent.
+
+![](/images/projects/khoa-nguyen-b839k0lK3Dk-unsplash.jpg)
 
 You can create lists:
 
@@ -53,13 +60,6 @@ You can throw in some horizontal rules too:
 #### My Role
 
 For Product Designers a large part of the job is to design products that are great for the end user but we also need to design for the business too.   
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
 
