@@ -7,7 +7,7 @@ featured_image: 'khoa-nguyen-b839k0lK3Dk-unsplash.jpg'
 gallery_images:
   - khoa-nguyen-b839k0lK3Dk-unsplash.jpg
 accent_color: '#222'
-published: true
+published: false
 ---
 
 #### From cluttered desktop to tidy small devices
@@ -19,7 +19,7 @@ So, how do you transform this tired, cluttered desktop UI into a finely crafted 
 	images = "/images/projects/rr-hotel-details.png,"
 %}
 
-This is a B2B platform for booking and managing hotel reseravtions.  It is not consumer facing, the user is the travel agent.
+This is a B2B platform for booking and managing hotel reservations.  It is not consumer facing, the user is the travel agent.
 
 ![](/images/projects/khoa-nguyen-b839k0lK3Dk-unsplash.jpg)
 
