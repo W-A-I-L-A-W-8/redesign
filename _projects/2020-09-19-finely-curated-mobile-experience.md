@@ -7,7 +7,7 @@ featured_image: 'khoa-nguyen-b839k0lK3Dk-unsplash.jpg'
 gallery_images:
   - khoa-nguyen-b839k0lK3Dk-unsplash.jpg
 accent_color: '#222'
-published: false
+published: false	
 ---
 
 #### From cluttered desktop to tidy small devices
@@ -19,7 +19,7 @@ So, how do you transform this tired, cluttered desktop UI into a finely crafted 
 	images = "/images/projects/rr-hotel-details.png,"
 %}
 
-This is a B2B platform for booking and managing hotel reservations.  It is not consumer facing, the user is the travel agent.
+This is a B2B platform for booking and managing hotel reservations.  It is not consumer facing, the persona is the travel agent.
 
 ![](/images/projects/khoa-nguyen-b839k0lK3Dk-unsplash.jpg)
 
@@ -59,9 +59,7 @@ You can throw in some horizontal rules too:
 
 #### My Role
 
-For Product Designers a large part of the job is to design products that are great for the end user but we also need to design for the business too.   
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
+The was prodominently a UX piece.
 
 {% raw %}
 ```liquid
@@ -78,8 +76,12 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 
 Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
+After a UX Audit.
+
 #### Pain Points
-* The primary problem here was not the lack of content but how we squeeze onto the small screen.
+* The primary problem here was not the lack of content but how do we go about squeezing it all onto the small screen.
+
+The stakeholder also wanted this to work across multiple screen resolutions so the approach had to be responsive so we could forget about doing a native application
 
 #### Why?
 chatbot off the shelf solution Amazon Lex.Why: better engagement, bridging gap in content, increase revenue, reduce costs.Summary or outcome: KPIs achieved (see keynote doc).

@@ -19,7 +19,7 @@ This emerging technology has been around in the travel space for a number of yea
 
 For us Product Designers a large part of the job is to design products that are great for the end user but we also need to design for the business too.  In this project I assumed the role as, not only the Product Designer but kind of an acting Product Manager/Owner too.
 
-**What were the problems or opportunities that the organisation were facing?**
+#### What were the problems or opportunities that the organisation were facing?
 Streamlining operations, improve booking experience for customers, dynamic content and increased customer service efficiency.
 
 #### Solution
