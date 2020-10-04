@@ -37,7 +37,7 @@ And:
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+> “Mobile user experience (UX) design refers to the design of positive experiences during the use of mobile devices and wearables, and applications or services running on such devices…Mobile UX design focuses strongly on efficiency and discoverability. - Interaction Design Foundation”
 
 The theme also supports markdown tables:
 
@@ -81,16 +81,20 @@ After a UX Audit.
 #### Pain Points
 The primary problem here was not the lack of content but how do we go about squeezing it all onto the small screen.  we ran some research and we discovered that cognitively, it presented a problem to many users.  On reviewing the platform, experience wise, we were surprised to discover was not too bad at all and there were some well thought out features.
 
-The stakeholder also wanted this to work across multiple screen resolutions so the approach had to be responsive so we could forget about doing a native application.  It meant we would have to define some useful breakpoints.  However, we knew if we were ever asked to do a native application we could borrow many of the design features from the mobile device resolution.
+Mobile UX design can be tricky business.  There are so many things we have to consider, including the growing list of mobile devices, the ways people interact with them, and the fact that people want consistent and pleasurable experiences across all device types.
 
-#### Why?
-chatbot off the shelf solution Amazon Lex.Why: better engagement, bridging gap in content, increase revenue, reduce costs.Summary or outcome: KPIs achieved (see keynote doc).
+<!-- Read this for reference: https://www.toptal.com/designers/ux/mobile-ux-design-best-practices -->
+
+To add to the complexity, the stakeholder also wanted this to work across multiple screen resolutions so the approach had to be responsive so we could forget about doing a native application.  It meant we would have to define some useful breakpoints.  However, we knew if we were ever asked to do a native application we could borrow many of the design features from the mobile device resolution.
+
+#### The Process
+Part of sucessfully curating a great experience is to prioritise.
+
+We set about doing this by speaking to our key stakeholder on this project and also had opportunity to present to the organisation's Executive Director (also co-founder of the company).
 
 #### Image carousels
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+The wireframes illustrate a cleaner UI, using familiar componenet sets to display that data.
 
 {% include post-components/gallery.html
 	columns = 1
