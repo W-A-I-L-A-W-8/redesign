@@ -79,9 +79,9 @@ Change the number inside the 'columns' setting to create different types of gall
 After a UX Audit.
 
 #### Pain Points
-* The primary problem here was not the lack of content but how do we go about squeezing it all onto the small screen.
+The primary problem here was not the lack of content but how do we go about squeezing it all onto the small screen.  we ran some research and we discovered that cognitively, it presented a problem to many users.  On reviewing the platform, experience wise, we were surprised to discover was not too bad at all and there were some well thought out features.
 
-The stakeholder also wanted this to work across multiple screen resolutions so the approach had to be responsive so we could forget about doing a native application
+The stakeholder also wanted this to work across multiple screen resolutions so the approach had to be responsive so we could forget about doing a native application.  It meant we would have to define some useful breakpoints.  However, we knew if we were ever asked to do a native application we could borrow many of the design features from the mobile device resolution.
 
 #### Why?
 chatbot off the shelf solution Amazon Lex.Why: better engagement, bridging gap in content, increase revenue, reduce costs.Summary or outcome: KPIs achieved (see keynote doc).
