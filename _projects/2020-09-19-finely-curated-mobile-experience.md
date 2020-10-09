@@ -2,12 +2,12 @@
 title: Finely Curated Mobile Experience
 subtitle: Enterprise model for delivering a booking experience on mobile devices.
 date: 2020-09-03 00:00:00
-description: Creating a great booking experience on mobile and doing it globally across all products within the organisation.
+description: Creating a great booking experience on mobile.
 featured_image: 'khoa-nguyen-b839k0lK3Dk-unsplash.jpg'
 gallery_images:
   - khoa-nguyen-b839k0lK3Dk-unsplash.jpg
 accent_color: '#222'
-published: false	
+published: false
 ---
 
 #### From cluttered desktop to tidy small devices
@@ -37,7 +37,8 @@ And:
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Mobile user experience (UX) design refers to the design of positive experiences during the use of mobile devices and wearables, and applications or services running on such devices…Mobile UX design focuses strongly on efficiency and discoverability. - Interaction Design Foundation”
+> “Mobile user experience (UX) design refers to the design of positive experiences during the use of mobile devices and wearables, and applications or services running on such devices…Mobile UX design focuses strongly on efficiency and discoverability." 
+	Interaction Design Foundation
 
 The theme also supports markdown tables:
 
