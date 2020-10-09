@@ -13,7 +13,7 @@ published: false
 ![](/images/projects/khoa-nguyen-b839k0lK3Dk-unsplash.jpg)
 
 #### From cluttered desktop to tidy small devices
-So, how do you transform this tired, cluttered desktop UI into a finely crafted mobile experience keeping all the features and functionality?  Curation is key.
+So, how do you transform this tired, cluttered dashboard UI into a finely crafted mobile experience keeping all the key features and functionality?  Curation is key.
 
 {% include post-components/gallery.html
 	columns = 2
@@ -21,14 +21,14 @@ So, how do you transform this tired, cluttered desktop UI into a finely crafted 
 	images = "/images/projects/rr-hotel-details.png,"
 %}
 
-This is a B2B platform for booking and managing hotel reservations.  It is not consumer facing, the persona is the travel agent.
+This is a B2B platform for booking and managing hotel reservations and was originally designed for one of the Qantas Holidays sub-brands.  It is not consumer facing, the persona is the travel agent.
 
 #### My Role
 
-The was prodominently a UX piece for me.  My role was to deliver the best possible experience across multiple devices sizes.  Fortunately, I have designed a number of travel related applications for mobile in a previous life so I was pretty confident we could release a great outcome. 
+This was prodominently a UX piece for me.  My role was to deliver the best possible experience across multiple device.  Fortunately, I have designed a number of travel related applications for mobile in a previous life so I was pretty confident we could release a great outcome. 
 
 #### Pain Points
-The primary problem here was not the lack of content but how we squeeze it all onto the small screen.  We ran some research and we discovered that cognitively, it presented a problem to many users.
+The primary problem here was not the lack of content but how we squeeze all the data onto the small screen.  We ran some research and we discovered that cognitively, it presented a problem to many users.  It was just too messy for may of them and created a feeling of anxiety.  The plan was to get into the mockups straight away to anticipate the usability issues.  We received a lot of feedback from the main users.
 
 Mobile UX design can be tricky business.  There are so many things we have to consider, including the growing list of mobile devices, the ways people interact with them, and the fact that people want consistent and pleasurable experiences across all device types.
 
@@ -43,10 +43,21 @@ As Antoine de Saint-Exupery said,
 
 > "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
 
-#### Above the fold
+#### The dashboard
 It was established that our user would be primarily using the interface to check hotel availability and this could happen at anytime of the day, from anywhere.  They could be sitting in a coffee shop or in a car during a school pick up.  Secondly, the user would be using the application to manage their bookings.
 
-All frequently performed tasks needed to be readily available and the navigation needed to be clean and crisp.
+All frequently performed tasks needed to be readily available and the main flows to be easily accessible and fast.
+
+You can see in the wireframes that above the fold, the user can get straight into the search.  If they scroll down to below the fold many of their administrative functions become visible such as, ongoing quotes, existing bookings or the user can run a search to find specific bookings or quotes.  These can also be accessed using their profile avatar to reveal a menu of options.
+
+Our UI Designer executed the experience plan expertly and made some great UI component choices.  For example the tab system displays the most frequently used searche options in it's navigation.
+
+#### The search
+A search as expected will render results based on the users search parameters.  A key fundamental of great UX for mobile is a seamless flow.  As result lists can sometimes be extensive we wanted the user to experience the smoothest journey possible.  When the user is on a result page they are presented with back and next options.  This allows them to keep perusing the choices without having to go back to their search result list.
+
+There was a requirement to be able to download hotel information or print it.
+
+The clever use of accordions help to curate the data.
 
 #### Image carousels
 
