@@ -12,6 +12,13 @@ published: false
 
 ![](/images/projects/khoa-nguyen-b839k0lK3Dk-unsplash.jpg)
 
+% include post-components/gallery.html
+	columns = 1
+	full_width = true
+	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
+	"
+%}
+
 #### From cluttered desktop to tidy small devices
 So, how do you transform this tired, cluttered dashboard UI into a finely crafted mobile experience keeping all the key features and functionality?  Curation is key.
 
@@ -59,7 +66,14 @@ There was a requirement to be able to download hotel information or print it.
 
 The clever use of accordions help to curate the data.
 
-#### Image carousels
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/projects/mob_dashboard_above.png"
+%}
+
+#### Specific features
+Requested from the user
 
 The wireframes illustrate a cleaner UI, using familiar componenet sets to display that data.
 
