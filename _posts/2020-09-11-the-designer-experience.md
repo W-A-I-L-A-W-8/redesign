@@ -2,7 +2,7 @@
 title: The Designer Experience
 date: 2020-09-11 00:00:00
 description: Using a static site generator reduced cognitive friction
-featured_image: '/images/demo.jpg'
+featured_image: '/images/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg'
 ---
 
 I'm a Jekyll fan boy.  I have been tracking their progress for a few years now and as newer options emerge on the market, the better they seem to get.

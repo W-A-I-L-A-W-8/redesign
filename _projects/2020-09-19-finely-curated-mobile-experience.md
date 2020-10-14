@@ -2,12 +2,12 @@
 title: Finely Curated Mobile Experience
 subtitle: Enterprise model for delivering a booking experience on mobile devices.
 date: 2020-09-10 00:00:00
-description: Creating a great booking experience on mobile.
+description: Creating a great booking experience across multiple screen resolutions.
 featured_image: 'khoa-nguyen-b839k0lK3Dk-unsplash.jpg'
 gallery_images:
   - khoa-nguyen-b839k0lK3Dk-unsplash.jpg
 accent_color: '#222'
-published: false
+published: true
 ---
 
 #### From cluttered desktop to tidy small devices
@@ -23,10 +23,10 @@ This is a B2B platform for booking and managing hotel reservations and was origi
 
 #### My Role
 
-This was prodominently a UX piece for me.  My role was to deliver the best possible experience across multiple device.  Fortunately, I have designed a number of travel related applications for mobile in a previous life so I was pretty confident we could release a great outcome. 
+This was prodominently a UX piece for me.  My job was to deliver the best possible experience across multiple device.  Fortunately, I have designed a number of travel related applications for mobile in a previous life so I was pretty confident we could release a great outcome. 
 
 #### Pain Points
-The primary problem here was not the lack of content but how we squeeze all the data onto the small screen.  We ran some research and we discovered that cognitively, it presented a problem to many users.  It was just too messy for may of them and created a feeling of anxiety.  The plan was to get into the mockups straight away to anticipate the usability issues.  We received a lot of feedback from the main users.
+The primary problem here was not the lack of content but how we squeeze all of it onto the small screen.  We ran some research and we discovered that cognitively, it presented a problem to many users.  It was just too messy for many of them and created a feeling of anxiety.  The plan was to get into the mockups straight away to anticipate the usability issues.  We received great feedback from the main users and they were definitely heard.
 
 Mobile UX design can be tricky business.  There are so many things we have to consider, including the growing list of mobile devices, the ways people interact with them, and the fact that people want consistent and pleasurable experiences across all device types.
 
@@ -83,12 +83,25 @@ Accordions were used to curate the data.
 %}
 
 #### Specific features
-Requested from the user
+During our research phase, we received a number of requests from the user that we collated.  Many were considered 'nice to have" but there were a handful of really beneficial ones that we knew would make their lives easier.  We implemented these as additional filter options.  In this case the research really paid off and enabled us to design the best product we could.
 
-The wireframes illustrate a cleaner UI, using familiar componenet sets to display that data.
+For example, they can view their commission as a percentage.  As agents, it is useful for them to be aware of the profit they could potentially earn on a product.  Thus enabling them to upsell certain hotels.  If the agent has a tool to help them make more money then the organisation wins too.
+
+Another great example is allowing to the user to toggle prices from show to hide.  Unknown to us, agents would sometimes be sitting right next to their clients.  They can simply click the eye icon and toggle the prices on or off.
 
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
 	images = "/images/projects/mob_results_list.png"
 %}
+
+#### Constraints
+The end goal was to achieve the most enjoyable experience for this product when used on a mobile device.  However, there were some specific constraints that we needed to keep at the forefront of our minds when designing the experience.
+
+Screen Size | Smaller screens can increase congnitive friction so we needed to restructure information, consider key thumb zones, decrease clicks. 
+Externalities | Using data to browse can mean users are prone to dropping in and out of signal.  We had to think about save points and avoiding having to start their tasks from the beginning again.
+Multiple screen sizes | Designing responsively limits what we make visible on screen.  We could have designed around multi-screen use but we decided the best approach was to use familiar UI elements that could be hidden if not needed or considered primary.  I.E. expand and collapse elements, tabs.  This allowed us to fit a lot of information in but kept the presentation tidy.
+Is the user left or right handed, both hands, landscape or portrait? | I'm talking about how they interact with their device.  Use the rule of thirds and keep key actions in the middle, design for all and large touch points.
+
+#### A cleaner, clearer interface
+Overall, the designs present a more usable product using familiar componenet sets to display that data.  The user flows are more seamless allowing the user to complete tasks faster.

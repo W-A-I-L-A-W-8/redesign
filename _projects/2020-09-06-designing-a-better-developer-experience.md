@@ -1,8 +1,8 @@
 ---
-title: Designing a better developer experience
+title: Design quality assurance and the developer experience
 subtitle: Building an Enterprise UI Component Library in Storybook.js
 date: 2020-09-06 00:00:00
-description: For smoother collaboration amongst software teams we must consider the developer experience too.
+description: A design system for smoother collaboration amongst software teams and product scalability.
 featured_image: demo.jpg
 accent_color: '#222'
 # gallery_images:
@@ -36,6 +36,20 @@ Deliver robust UIs
 Storybook provides a sandbox to build UI components in isolation so you can develop hard-to-reach states and edge cases.
 
 Storybook makes it easy to keep track of edge cases and as a result you get tests for free.
+
+#### Key Considerations
+Before you implement a component library, you’ll need a completed design system. But is a design system the right tool to use for your digital product? Ask yourself the following questions and if you find that you are agreeing with several of them, your digital product is a good candidate for a design system:
+
+Does your product have multiple digital touchpoints (websites, web apps, mobile apps) that would benefit from a consistent interface design?
+Does your product team need to quickly release changes, new features, or new digital touchpoints?
+Are you growing fast and need to be able to design with a common language and consistent aesthetic that upholds your company’s brand?
+Do your designers tend to create outside of your brand aesthetic, making things very difficult to iterate and change over time and also adding both technical and design debt?
+Do the same things get built over and over?
+Does your product have inconsistent tooltips, confusing modal dialogs, and competing button styles?
+Do your designers ask the same questions time and time again?
+Does it take new designers, engineers, and product managers months to fully understand how to use the set design language?
+Are you looking to conduct more rapid prototyping?
+Do you have a set of accessibility standards for your product’s design that you need to uphold?
 
 
 ### Summary
