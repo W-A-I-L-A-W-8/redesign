@@ -30,8 +30,6 @@ The primary problem here was not the lack of content but how we squeeze all of i
 
 Mobile UX design can be tricky business.  There are so many things we have to consider, including the growing list of mobile devices, the ways people interact with them, and the fact that people want consistent and pleasurable experiences across all device types.
 
-<!-- Read this for reference: https://www.toptal.com/designers/ux/mobile-ux-design-best-practices -->
-
 Given the constraint on time to deliver and that the user persona could be using this application across a number of different screen resolutions, we knew early on in the process that the approach had to be responsive so we could forget about doing a native application.  It meant we would have to define some effective breakpoints.
 
 #### Prioritisation
