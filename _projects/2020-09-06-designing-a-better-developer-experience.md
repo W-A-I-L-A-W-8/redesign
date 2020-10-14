@@ -12,9 +12,9 @@ accent_color: '#222'
 published: false
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Upon joining my current organisation I was aware that I would be given a degree of autonomy to build a design process as I saw fit for the company.  I also knew I would be working on a large digital transformation under a certain number of constraints and a bit of ambiguity.  No a problem though, I'm happy to embrace this as a challenge.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+As I was embarking on a journey to transform a multitude of products (new and old) I knew I needed to develop a way to effectively manage UX and UI of everything across the whole suite.  It was essential to avoid the rabit hole of rework and for the sanity of our development team.
 
 ![](/images/demo.jpg)
 
