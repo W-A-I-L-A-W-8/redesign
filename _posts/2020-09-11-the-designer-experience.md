@@ -5,7 +5,7 @@ description: Using a static site generator reduced cognitive friction
 featured_image: '/images/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg'
 ---
 
-I'm a Jekyll fan boy.  I have been tracking their progress for a few years now and as newer options emerge on the market, the better they seem to get.
+I'm a Jekyll fan boy and I have been tracking their progress for a few years now and as newer options emerge on the market, the better they seem to get.  At least for me, they do!
 
 ![Jekyll logo from jekyllrb.com](https://jekyllrb.com/img/jekyll-og.png)
 
@@ -15,10 +15,10 @@ As Jekyll say, it's:
 
 > “Simple, static, and blog-aware.”
 
-From where I'm sitting it has a been dream tool, for creating an incredibly fast, static websites without the clutter.  Precisely, the reason I built my this site using the platform.  I've been on Jekyll for probably, almost five years now so I wanted to write this piece to illustrate some of the main benefits I've reaped over the last few years and specifically from a Designers eye.
+From where I'm sitting it has a been dream tool, for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my this site using the platform.  I've been on Jekyll for almost five years now so I wanted to write this piece to illustrate some of the main benefits I have reaped over the last few years and specifically from a designers eye.
 
 #### What do you need to know in order to get on with Jekyll
-My main vocation is Product Design.  I'm familiar with front end development but I can safely say it's definitely not one of my fortes.  
+My main vocation is in Product Design.  I'm familiar with front end development but I can safely say it's definitely not one of my fortes.  
 
 Before you continue on to the next part, here's a few things to consider before you plough head first into Jekyll.  Not that there's anything wrong with doing so.  After all that's how I got started.  But to help you reduce the amount of frustration you might experience I have listed a few pointers below.  I like to think I'm a half decent designer so a designer's main prerogative is to consider the best possible experience.
 
@@ -44,4 +44,4 @@ The other thing that caught my attention was that, I could have my site up and r
 From a design side I was able to theme it with one of many gem based themes thus keeping it minimal with only the features I required.  Following on from this I could choose to customise and style to my liking.
 
 ### Summary
-Jekyll is a fantastic tool for designers who don't mind getting their hands a little dirty and are passionate about developing products.  For me there's the right quantity of techy stuff to keep my attention and fulfil any fantasies I might have of becoming a develoer but not too much that I run the other direction.  You see, for a designer like myself I don't wish to be spending my precious hours trying to resolve development problems or fixing database related issues.  A platform such as Jekyll gives me the tools I need and makes maintaining my website a fun experience.
+Jekyll is a fantastic tool for designers who don't mind getting their hands a little dirty and are passionate about developing products.  For me there's the right quantity of techy stuff to keep my attention and fulfil any fantasies I might have of becoming a developer but not too much that I run the other direction.  You see, for a designer like myself I don't wish to be spending my precious hours trying to resolve development problems or fixing database related issues.  A platform such as Jekyll gives me the tools I need and makes maintaining my website a fun experience.
