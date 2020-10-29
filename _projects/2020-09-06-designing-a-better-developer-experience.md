@@ -7,7 +7,7 @@ featured_image: quality-assurance-feature1.jpg
 accent_color: '#222'
 gallery_images:
   - quality-assurance-feature1.jpg
-published: false
+published: true
 ---
 
 Upon joining my current organisation I was aware that I would be given a degree of autonomy to build a design process as I saw fit for the company.  I also knew I would be working on a large digital transformation under a certain number of constraints and a bit of ambiguity.  No a problem there, as always, I'm happy to embrace this as a challenge.
@@ -47,6 +47,15 @@ In terms of design, I have always instinctively taken a modular approach to desi
 ![Atomic Design by Brad Frost ](/images/projects/atomic-design-process.png "Atomic Design image from Brad Frost")
 <figcaption>Image taken from Brad Frost's Atomic Design</figcaption>
 
+Following the Atomic model I began to create the basic HTML elements to serve as our base styles.  The buttons, form inputs etc.  With Storybook I was able to lay the foundations and immediately start building the components for these elements.
+
+<!-- Next, the molecules.  Like a search input and button combined.
+
+Organisms - nav
+
+Templates - use a mobile wireframe as an example -->
+
 ## To be continued...
+My apologies and I'll hopefully have this one finished for you.
 <!-- #### Summary
 Two years ago, there was no way of assuring design consistency and frustration was high amongst the developement team.  Today, we have a constantly evolving design system which is starting to mature.  It helps to relieve unnecessary stress and the product team can create and develop with confidence knowing they have the support of some great tools. -->
