@@ -56,6 +56,6 @@ Organisms - nav
 Templates - use a mobile wireframe as an example -->
 
 ## To be continued...
-My apologies and I'll hopefully have this one finished for you.
+My apologies, I'll hopefully have this one finished for you soon.
 <!-- #### Summary
 Two years ago, there was no way of assuring design consistency and frustration was high amongst the developement team.  Today, we have a constantly evolving design system which is starting to mature.  It helps to relieve unnecessary stress and the product team can create and develop with confidence knowing they have the support of some great tools. -->
