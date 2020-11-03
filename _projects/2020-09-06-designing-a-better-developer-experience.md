@@ -47,7 +47,7 @@ In terms of design, I have always instinctively taken a modular approach to desi
 ![Atomic Design by Brad Frost ](/images/projects/atomic-design-process.png "Atomic Design image from Brad Frost")
 <figcaption>Image taken from Brad Frost's Atomic Design</figcaption>
 
-Following the Atomic model I began to create the basic HTML elements to serve as our base styles.  The buttons, form inputs etc.  With Storybook I was able to lay the foundations and immediately start building the components for these elements.
+Following the Atomic model, I began to create the basic HTML elements to serve as our base styles.  The buttons, form inputs etc.  With Storybook I was able to lay the foundations and immediately start building the components for these elements.
 
 <!-- Next, the molecules.  Like a search input and button combined.
 
