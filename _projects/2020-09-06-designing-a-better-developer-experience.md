@@ -1,7 +1,7 @@
 ---
 title: Design quality assurance and the developer experience
-subtitle: Building an Enterprise UI Component Library in Storybook.js
-date: 2020-10-15 00:00:00
+subtitle: Building an enterprise UI Component Library in Storybook.js
+date: 2020-09-10 00:00:00
 description: A design system for smoother collaboration amongst software teams and product scalability.
 featured_image: quality-assurance-feature1.jpg
 accent_color: '#222'
