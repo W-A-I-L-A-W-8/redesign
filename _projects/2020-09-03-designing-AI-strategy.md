@@ -2,7 +2,7 @@
 title: Exploring AI
 subtitle: Introducing our new friend, Smart Travel Assistant
 date: 2020-09-11 00:00:00
-description: This piece is about how we developed a strategy for implenting an AI/ML solution to align with the organisation's strategic priorities and to solve immediate problems.
+description: This piece is about how we developed a strategy for implenting an AI/ML solution to align with the organisation's strategic priorities.
 featured_image: chatbot-1.png
 accent_color: '#222'
 gallery_images:
@@ -20,16 +20,16 @@ This emerging technology has been around in the travel space for a number of yea
 For us Experience Designers a large part of the job is to design products and digital services that are great for the end user but we also need to design for the business too.  In this project I assumed my usual role as, UX Designer but I also played the part of Product Owner too.
 
 #### What were the problems or opportunities that the organisation were facing?
-Streamlining operations, improve booking experience for customers, dynamic content and increased customer service efficiency.
+Streamlining operations to improve the booking experience for customers.  With machine learning there was a great opportunity for creating dynamic content and increased customer service efficiency.
 
 #### Solution
-AI was to play a big part in helping us to alleviate our pain points. We knew we had to automate more and our goal of completing a digital transformation program to include chatbot implementation and dynamically driven content applications driven by AI was to be instrumental in doing so.  Just as SkyScanner had done before us we were looking at a chatbot solution to become our smart travel assistance. 
+AI was to play a big part in helping to alleviate user pain points. We understood the power of automation and the goal of completing a digital transformation program to include chatbot implementation and dynamically driven content applications driven by AI was to be instrumental in doing so.  Just as SkyScanner had done before us we were looking at a chatbot solution to become our smart travel assistance. 
 
 #### Why
 As a publicly listed, Travel-Distribution Company providing a diverse range of travel wholesale products and services to markets globally, we could see that such a solution had the potential to help the organisation achieve it's strategic priorities.  In doing so it would improve customer engagement and the booking experience.  The benefits could help to build and maintain better relationships, increase efficiencies, reduce costs, engage customers and improve conversions.  We needed buy-in from the stakeholders.
 
 #### Core Ethical Considerations
-Ethical concerns are big priority in software development especially when artificial intelligence is involved too.  We built a short list of considerations that we felt were important to us as a team and aligned them with the organisation's objectives.
+Ethical concerns are big priority in software development especially when artificial intelligence is involved.  We built a short list of considerations that we felt were important to us as a team and aligned them with the organisation's objectives.
 
 * Transparency - there should be complete transparency to ensure people are fully aware of when they are being impacted by AI.
 Human centred and wellbeing - I believe that AI systems should always respect human rights and diversity and any systems should be the benefit of individuals, society and the environment.
@@ -50,7 +50,7 @@ Retention rate | This is the proportion of users who have consulted the chatbot 
 User engagement | measuring the number of messages exchanged.
 
 #### Designing for chatbots 
-From our discovery we now understood the risks, assumptions, the personas, user and system requirements.  I began creating wireframes to illustrate the main conversation flows and to anticipate any usability issues that might arise early on.  The wireframes were also great for getting stakeholders involved in the design process.
+From our discovery we understood the risks, assumptions, the personas, user and system requirements.  I began creating wireframes to illustrate the main conversation flows and to anticipate any usability issues that might arise early on.  The wireframes were also great for getting stakeholders involved in the design process.
 
 To trigger conversation from my working group I first created a wireframes for a desktop view, the conversation types that are currently required and a layout suitable for smaller devices.
 
