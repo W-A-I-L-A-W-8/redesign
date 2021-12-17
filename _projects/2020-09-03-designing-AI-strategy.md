@@ -1,15 +1,13 @@
 ---
-title: Exploring AI
-subtitle: Introducing our new friend, Smart Travel Assistant
+title: Introducing our new friend, Smart Travel Assistant
+subtitle: Exploring AI and developing a strategy for integrating a chatbot solution
 date: 2020-09-11 00:00:00
-description: This piece is about how we developed a strategy for implenting an AI/ML solution to align with the organisation's strategic priorities.
-featured_image: chatbot-1.png
+description: This piece is about how we developed a strategy for implenting an AI/ML solution to solve the organisation's customer satisfaction problem.
+featured_image: '/images/projects/chatbot-1.png'
 accent_color: '#222'
 gallery_images:
   - chatbot-1.png
 ---
-
-![Exploring AI](../images/projects/chatbot-1.png)
 
 #### Use of AI in the Travel Industry
 

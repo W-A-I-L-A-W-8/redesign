@@ -1,9 +1,9 @@
 ---
-title: Design quality assurance and the developer experience
-subtitle: Building an enterprise UI Component Library in Storybook.js
-date: 2020-09-10 00:00:00
+title: Design quality assurance, ship products faster and better
+subtitle: Building an enterprise design system
+date: 2021-01-10 00:00:00
 description: A design system for smoother collaboration amongst software teams and product scalability.
-featured_image: quality-assurance-feature1.jpg
+featured_image: '/images/projects/fwwDS1.png'
 accent_color: '#222'
 gallery_images:
   - quality-assurance-feature1.jpg
@@ -48,6 +48,12 @@ When it comes to design, I have always instinctively taken a modular approach to
 <figcaption>Image taken from Brad Frost's Atomic Design</figcaption>
 
 Following the Atomic method, I began to design the foundational UI elements to serve as our base styles.  The colours, typography, buttons, form inputs etc. 
+
+![FWW Colour palette, design guidelines ](/images/projects/fwwDS7.png "colour palette")
+<figcaption>Colour Palette</figcaption>
+
+![FWW typography, design guidelines ](/images/projects/fwwDS6.png "typography")
+<figcaption>Typography</figcaption>
 
 <!-- Next, the molecules.  Like a search input and button combined.
 
