@@ -4,9 +4,11 @@ subtitle: Exploring AI and developing a strategy for integrating a chatbot solut
 date: 2020-09-11 00:00:00
 description: This piece is about how we developed a strategy for implenting an AI/ML solution to solve the organisation's customer satisfaction problem.
 featured_image: '/images/projects/chatbot-1.png'
-accent_color: '#222'
+accent_color: '#4c60e6'
 gallery_images:
   - chatbot-1.png
+  - chatbot-wireframe-desktop.png
+  - chatbot-wireframe-conversation-types.png
 ---
 
 #### Use of AI in the Travel Industry

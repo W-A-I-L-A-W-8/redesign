@@ -3,10 +3,10 @@ title: Finely Curated Mobile Experience
 subtitle: Enterprise model for delivering a booking experience on mobile devices.
 date: 2020-08-10 00:00:00
 description: Creating a great booking experience across multiple screen resolutions.
-featured_image: '/images/projects/finely-curated-feature2.jpg'
+featured_image: finely-curated-feature2.jpg
 gallery_images:
   - finely-curated-feature2.jpg
-accent_color: '#222'
+accent_color: '#4c60e6'
 published: true
 ---
 

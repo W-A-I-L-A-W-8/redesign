@@ -3,10 +3,12 @@ title: Design quality assurance, ship products faster and better
 subtitle: Building an enterprise design system
 date: 2021-01-10 00:00:00
 description: A design system for smoother collaboration amongst software teams and product scalability.
-featured_image: '/images/projects/fwwDS1.png'
-accent_color: '#222'
+featured_image: fwwDS1.png
+accent_color: '#4c60e6'
 gallery_images:
-  - quality-assurance-feature1.jpg
+  - fwwDS1.png
+  - fwwDS2.png
+  - fwwDS6.png
 published: true
 ---
 

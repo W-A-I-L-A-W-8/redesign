@@ -20,14 +20,14 @@ footer_settings:
 
 
 hero_settings:
-  background_image: 
+  background_image: /images/backgrounds/background-hero.svg
 
 post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: ''
-  form_action: 'https://formspree.io/hello@jekyllthemes.io'
+  email_address: 'hello@wailaw.me'
+  form_action: 'https://formspree.io/f/mvolzkjw'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Get in Touch'
@@ -66,7 +66,7 @@ color_settings:
   text_dark_color: '#202224'
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
-  accent_color: '#888'
+  accent_color: '#4c60e6'
   border_color: '#ECEDEF'
   error_color: '#D64541'
 
