@@ -8,7 +8,6 @@ accent_color: '#4c60e6'
 gallery_images:
   - chatbot-1.png
   - chatbot-wireframe-desktop.png
-  - chatbot-wireframe-conversation-types.png
 ---
 
 #### Use of AI in the Travel Industry
