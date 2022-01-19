@@ -2,7 +2,7 @@
 title: Design quality assurance, ship products faster and better
 subtitle: Building an enterprise design system
 date: 2021-01-10 00:00:00
-description: A design system for smoother collaboration amongst software teams and product scalability.
+description: Better collaboration amongst software teams and product scalability.
 featured_image: fwwDS1.png
 accent_color: '#996FCF'
 gallery_images:
@@ -34,7 +34,7 @@ We could now pinpoint the high level problems that existed.
 * No clarity on how to implement designs.  Developers were building the same design components over and over but with tiny differences each time.
 * There was a demand to release changes and new features quickly.
 
-#### Solution - The end goal.
+#### The end goal.
 A design framework, a simple set of design rules that could be easily interpreted and implemented.  There was a need to be able to constantly evolve designs and keep them well maintained.  Enter Storybook js.
 
 We reviewed a number of options and even considered building something custom.  Fortunately, there are plenty of great options off the shelf and some more suited than others.
@@ -42,7 +42,7 @@ We reviewed a number of options and even considered building something custom.  
 Storybook js is one of the most recognised.  It is an open source tool for developing UI components in isolation for React, Vue, Angular, and more. It helps to build UIs in an organised and efficient fashion.  I knew it was important to consider the developer experience too so being able to design and develop UI components in isolation was a big plus. Similarly for designers, it is also a fantastic experience.  It provided the long awaited framework and guidelines the product team needed to work with and could be kept updated and therefore current.
 
 #### Atomic Design
-Before developers could start delving into code, as a design practice we needed to develop the digital style guidelines and UI toolkit.
+Before developers could dive into code, as a design practice we needed to develop the digital style guidelines and UI toolkit.
 
 When it comes to design, I have always instinctively taken a modular approach to designing, delibrately creating components that are reusable across a suite of products.  A few years ago I stumbled across Brad Frost's Atomic design methodology.  As it turns out, it is rather similar to what I had already been practicing.  So it made perfect sense to continue in the same vein.
 
@@ -57,11 +57,21 @@ Following the Atomic method, I began to design the foundational UI elements to s
 ![FWW typography, design guidelines ](/images/projects/fwwDS6.png "typography")
 <figcaption>Typography</figcaption>
 
-<!-- Next, the molecules.  Like a search input and button combined.
+#### Applied Design Thinking
+We needed to delve deeper into the digital styles. We had empathy for our customer needs through research and user feedback and we could be confident that the implementation of specific design tenets would have an immediate impact on problems such as, inconsistent saturation of the primary colour and too many unique fonts.
 
-Organisms - nav
+As time was seemingly non-negotiable we had to work through our process quickly applying the same methodology throughout each phase of the guidelines. By defining key problem areas we were able to deliver UI components that would resolve these issues. We could then continue on the Atomic Design pathway and it enabled to rapidly build the molecules and organisms that would contribute to the interface.
 
-Templates - use a mobile wireframe as an example -->
+#### Page Templates
+A integral part of this system that would allow for rapid prototyping and the one of the core elements of this project, the white labelling of the product.
+#### Applied Design Thinking
+We needed to delve deeper into the digital styles. We had empathy for our customer needs through research and user feedback and we could be confident that the implementation of specific design tenets would have an immediate impact on problems such as, inconsistent saturation of the primary colour and too many unique fonts.
+
+As time was seemingly non-negotiable we had to work through our process quickly applying the same methodology throughout each phase of the guidelines. By defining key problem areas we were able to deliver UI components that would resolve these issues. We could then continue on the Atomic Design pathway and it enabled to rapidly build the molecules and organisms that would contribute to the interface.
+
+#### Page Templates
+A integral part of this system that would allow for rapid prototyping and the one of the core elements of this project, the white labelling of the product.
+
 
 ## To be continued...
 My apologies, I'll hopefully have this one finished for you soon.
