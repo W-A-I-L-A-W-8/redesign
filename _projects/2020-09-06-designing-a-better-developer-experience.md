@@ -64,14 +64,6 @@ As time was seemingly non-negotiable we had to work through our process quickly 
 
 #### Page Templates
 A integral part of this system that would allow for rapid prototyping and the one of the core elements of this project, the white labelling of the product.
-#### Applied Design Thinking
-We needed to delve deeper into the digital styles. We had empathy for our customer needs through research and user feedback and we could be confident that the implementation of specific design tenets would have an immediate impact on problems such as, inconsistent saturation of the primary colour and too many unique fonts.
 
-As time was seemingly non-negotiable we had to work through our process quickly applying the same methodology throughout each phase of the guidelines. By defining key problem areas we were able to deliver UI components that would resolve these issues. We could then continue on the Atomic Design pathway and it enabled to rapidly build the molecules and organisms that would contribute to the interface.
-
-#### Page Templates
-A integral part of this system that would allow for rapid prototyping and one of the core elements of this project; the ability to easily white label the product.
-
-
-#### Summary
-Assuring design consistency and reducing frustration was a  high priority for the developement team and the business. An evolving design system has helped to relieve unnecessary stress so the product team can build and engineer with greater confidence in their outputs.
+#### The result
+Assuring design consistency and reducing frustration was a high priority for the developement team and the goals of the business. An evolving design system has helped to relieve unnecessary stress so the product team can build and engineer with greater confidence in their outputs.
