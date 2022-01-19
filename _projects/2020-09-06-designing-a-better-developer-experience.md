@@ -73,7 +73,5 @@ As time was seemingly non-negotiable we had to work through our process quickly 
 A integral part of this system that would allow for rapid prototyping and one of the core elements of this project; the ability to easily white label the product.
 
 
-## To be continued...
-My apologies, I'll hopefully have this one finished for you soon.
-<!-- #### Summary
-Two years ago, there was no way of assuring design consistency and frustration was high amongst the developement team.  Today, we have a constantly evolving design system which is starting to mature.  It helps to relieve unnecessary stress and the product team can create and develop with confidence knowing they have the support of some great tools. -->
+#### Summary
+Assuring design consistency and reducing frustration was a  high priority for the developement team and the business. An evolving design system has helped to relieve unnecessary stress so the product team can build and engineer with greater confidence in their outputs.
