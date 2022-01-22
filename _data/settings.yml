@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Profile'
-      url: '/profile/'
+      url: '/'
 
 footer_settings:
   logo_image: 
