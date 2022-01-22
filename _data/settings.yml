@@ -12,8 +12,6 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Profile'
-      url: '/profile/'
 
 footer_settings:
   logo_image: 
