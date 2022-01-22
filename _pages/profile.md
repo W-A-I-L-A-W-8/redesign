@@ -1,6 +1,6 @@
 ---
 title: Profile
-layout: pages
+layout: page
 subtitle: Your message was sent successfully.
 description: A seasoned design practitioner with expertise crafting intuitive, end to end customer-
 centric, digital experiences, I have proven experience delivering enterprise
