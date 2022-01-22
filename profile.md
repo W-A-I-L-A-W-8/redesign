@@ -1,5 +1,6 @@
 ---
 title: Personal Summary
+layout: page
 description: A seasoned design practitioner with expertise crafting intuitive, end to end customer-
 centric, digital experiences, I have proven experience delivering enterprise
 grade solutions across multi-channels. I approach every design with a strategy for
