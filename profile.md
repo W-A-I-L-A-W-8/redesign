@@ -8,7 +8,7 @@ grade solutions across multi-channels. I approach every design with a strategy f
 influencing your user ethically and the impact it can have on your organisation’s
 objectives.  
 
-
+--
 
 During my various tenures, I have influenced a variety of exciting programs. I currently
 lead a UX/UI design practice at the City of Boroondara and notably, created an
@@ -17,7 +17,7 @@ objectives, including the evolution of a design system. Previous to this I have 
 on complex, multi-million dollar projects in the Telco space (NDA), delivering innovative
 solutions reliant on data visualisation.  
 
-
+--
 
 With my experience solving impactful problems, I create value by being able to work
 simultaneously across experience and business outcomes, helping to reduce scope and
