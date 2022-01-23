@@ -1,7 +1,24 @@
 ---
+layout: default
 title: Personal Summary
-layout: page
+overtitle: Profile
+description: Hello there
 ---
+
+section class="hero">
+		<div class="wrap grid">
+			<div class="title">
+				<p class="subtitle">{{ page.overtitle }}</p>
+				<h1>{{ page.title }}</h1>
+			</div>
+
+			<p class="intro subtitle--light">
+				{{ page.description }}
+				<!-- <a href="#" class="hero__cta button--fill contact-trigger js-contact">Resume</a> -->
+				<a href="https://cv.wailaw.me/" class="hero__cta button--fill contact-trigger">CV online</a>
+			</p>
+		</div>
+	</section>
 
 A seasoned design practitioner with expertise crafting intuitive, end to end customer-centric, digital experiences, I have proven experience delivering enterprise
 grade solutions across multi-channels. I approach every design with a strategy for
