@@ -4,7 +4,7 @@ subtitle: Building an enterprise design system
 date: 2021-01-10 00:00:00
 description: Better collaboration amongst software teams and product scalability.
 featured_image: fwwDS1.png
-accent_color: '#996FCF'
+accent_color: '#6667AB'
 gallery_images:
   - fwwDS1.png
   - fwwDS2.png
