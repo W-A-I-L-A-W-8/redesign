@@ -6,7 +6,7 @@ description: Creating a great booking experience across multiple screen resoluti
 featured_image: finely-curated-feature2.jpg
 gallery_images:
   - finely-curated-feature2.jpg
-accent_color: '#996FCF'
+accent_color: '#6667AB'
 published: true
 ---
 
