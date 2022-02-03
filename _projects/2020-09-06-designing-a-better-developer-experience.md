@@ -66,4 +66,4 @@ As time was seemingly non-negotiable we had to work through our process quickly 
 A integral part of this system that would allow for rapid prototyping and the one of the core elements of this project, the white labelling of the product.
 
 #### The result
-Assuring design consistency and reducing frustration was a high priority for the developement team and the goals of the business. An evolving design system has helped to relieve unnecessary stress so the product team can build and engineer with greater confidence in their outputs.
+Ensuring design consistency and reducing frustration was high priority for the engineering team and the goals of the business. An evolving design system has helped to relieve duplication and enabled the product team to build faster with greater confidence in their outputs.
