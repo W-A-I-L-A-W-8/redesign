@@ -1,6 +1,6 @@
 ---
 title: Design quality assurance, ship products faster and better
-subtitle: Building an enterprise design system
+subtitle: Building scalable design guidelines
 date: 2021-01-10 00:00:00
 description: Better collaboration amongst software teams and product scalability.
 featured_image: fwwDS1.png
@@ -35,7 +35,7 @@ We could now pinpoint the high level problems that existed.
 * There was a demand to release changes and new features quickly.
 
 #### The end goal.
-A design framework, a simple set of design rules that could be easily interpreted and implemented.  There was a need to be able to constantly evolve designs and keep them well maintained.  Enter Storybook js.
+A design framework, a simple set of design rules that could be easily interpreted and implemented.  There was a need to be able to constantly iterate on designs quickly and keep them maintained in code so they could be easily shippable.  Enter Storybook js.
 
 We reviewed a number of options and even considered building something custom.  Fortunately, there are plenty of great options off the shelf and some more suited than others.
 
@@ -63,7 +63,10 @@ We needed to delve deeper into the digital styles. We had empathy for our custom
 As time was seemingly non-negotiable we had to work through our process quickly applying the same methodology throughout each phase of the guidelines. By defining key problem areas we were able to deliver UI components that would resolve these issues. We could then continue on the Atomic Design pathway and it enabled to rapidly build the molecules and organisms that would contribute to the interface.
 
 #### Page Templates
-A integral part of this system that would allow for rapid prototyping and the one of the core elements of this project, the white labelling of the product.
+A integral part of this system that would allow for rapid prototyping and one of the core elements of this project, the white labelling of the product.
+
+![FWW Page templates and task flows, design guidelines ](/images/projects/fwwDS5.png "Page templates and task flows")
+<figcaption>White label enabled page templates and primary task flows</figcaption>
 
 #### The result
 Ensuring design consistency and reducing frustration was high priority for the engineering team and the goals of the business. An evolving design system has helped to relieve duplication and enabled the product team to build faster with greater confidence in their outputs.
