@@ -10,8 +10,8 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Posts'
+      url: '/posts/'
     - title: 'Profile'
       url: '/profile'
 
