@@ -1,14 +1,13 @@
 ---
-title: Static Site Generators are cool bro!
+title: Static Site Generators are cool
 date: 2020-09-11 00:00:00
 description: A designer's POV on this topic.
-featured_image: '/images/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg'
+featured_image: '/images/SSG.png'
 ---
 
 I love tools and tech that can make one's life easier.  [Jekyll](https://jekyllrb.com/) is one of these and I've been fan-boy for a few years now.
 ![Jekyll logo from jekyllrb.com](https://jekyllrb.com/img/jekyll-og.png)
 
----
 
 As Jekyll say, it's: 
 
