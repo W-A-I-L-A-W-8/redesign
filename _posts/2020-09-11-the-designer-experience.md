@@ -1,7 +1,7 @@
 ---
-title: The Designer Experience
+title: A Designer's Experience
 date: 2020-09-11 00:00:00
-description: Using a static site generator reduced cognitive friction
+description: How using a static site generator reduced my own cognitive load
 featured_image: '/images/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg'
 ---
 
@@ -18,9 +18,9 @@ As Jekyll say, it's:
 From where I'm sitting it has a been dream tool, for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my this site using the platform.  I've been on Jekyll for almost five years now so I wanted to write this short piece to illustrate some of the main benefits I have reaped over the last few years and specifically from a designers point of view.
 
 #### What do you need to know in order to get on with Jekyll
-My main vocation is in Product Design.  I'm familiar with front end development but I can safely say it's definitely not one of my fortes.  
+My day job is in UX.  I'm familiar with front end technologies but I can safely say it's definitely not one of my fortes.  
 
-Before you continue on to the next part, here's a few things to consider before you plough head first into Jekyll.  Not that there's anything wrong with doing so.  After all, that's how I got started.  But to help you reduce the amount of frustration you might experience I have listed a few pointers below.  I like to think I'm a half decent designer so a designer's main prerogative is to consider the best possible experience...always!!
+Before you continue on to the next part, here's a few things to consider before you plough head first into Jekyll.  Not that there's anything wrong with doing so.  After all, that's how I got started.  But to help you reduce the amount of frustration you might experience I have listed a few pointers below.  I like to think I'm a half decent designer and a designer's main prerogative is to solve problems and consider the best possible experience outcomes...always!!
 
 * Understanding of NPM.
 * Comfortable using a CLI.
