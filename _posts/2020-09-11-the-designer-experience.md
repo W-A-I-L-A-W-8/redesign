@@ -1,12 +1,11 @@
 ---
-title: A Designer's Experience
+title: Static Site Generators are cool bro!
 date: 2020-09-11 00:00:00
-description: How using a static site generator reduced my own cognitive load
+description: A designer's POV on this topic.
 featured_image: '/images/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg'
 ---
 
-I love tools and services that can make my life much simpler.  [Jekyll](https://jekyllrb.com/) is one of these and I've been fan boy for a few years now and as newer options emerge on the market, the better they seem to get.  At least for me, they do!
-
+I love tools and tech that can make one's life easier.  [Jekyll](https://jekyllrb.com/) is one of these and I've been fan-boy for a few years now.
 ![Jekyll logo from jekyllrb.com](https://jekyllrb.com/img/jekyll-og.png)
 
 ---
@@ -17,10 +16,8 @@ As Jekyll say, it's:
 
 From where I'm sitting it has a been dream tool, for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my this site using the platform.  I've been on Jekyll for almost five years now so I wanted to write this short piece to illustrate some of the main benefits I have reaped over the last few years and specifically from a designers point of view.
 
-#### What do you need to know in order to get on with Jekyll
-My day job is in UX.  I'm familiar with front end technologies but I can safely say it's definitely not one of my fortes.  
-
-Before you continue on to the next part, here's a few things to consider before you plough head first into Jekyll.  Not that there's anything wrong with doing so.  After all, that's how I got started.  But to help you reduce the amount of frustration you might experience I have listed a few pointers below.  I like to think I'm a half decent designer and a designer's main prerogative is to solve problems and consider the best possible experience outcomes...always!!
+#### What do you need to know in order to "play nice" with Jekyll
+Here's a few things to consider before you plough head-first into Jekyll.  Not saying there's anything wrong with doing that...after all, that's how I got started.
 
 * Understanding of NPM.
 * Comfortable using a CLI.
@@ -29,15 +26,15 @@ Before you continue on to the next part, here's a few things to consider before 
 * Decent SASS skills so you can customise till your heart's content.
 * Working knowledge of Github or happy to try.
 
-#### Pain Points
+#### Why did I switch to Jekyll?
 After many years working with WordPress I was finding it increasingly cumbersome.  The experience was some what frustrating,
-slow and painful to manage.  I felt that WordPress and it's database and plugins was a bit overkill for my needs and I was craving a solution that was simple to maintain, flexible and lightweight.
+slow and painful to manage.  I felt it was a bit overkill for my needs and I was craving a solution that was simple to maintain, flexible and lightweight.
 
 #### So, I chose Jekyll
 And that's the reason we're here talking about Jekyll.  Even for me, I discovered it was ridiculously simple.  What's more simplistic than taking plain text files and converting them into static websites.  I enjoy a bit of coding from time to time but as a designer my focus is on the design stuff and it was no different building my own website.  I wanted a painless, quick solution to get my portfolio up and running.
 
-#### Why Jekyll?
-Before settling on my choice, I reviewed other static site generators such as Gatsby, Hugo and many others but what attracted me to Jekyll was it's sheer simplicity and it was well maintained and well documented.
+#### Is there anything else out there?
+Before settling on my choice, I reviewed other static site generators such as Gatsby, Hugo and many others but what attracted me to Jekyll was it's sheer simplicity and as it was well documented.
 
 The other thing that caught my attention was that, I could have my site up and running in a matter of seconds.  The prerequisites are minimal (especially if you own a Mac) and being able to host your website for free on [Github Pages](https://pages.github.com/) was very appealing.  There was also an additional bonus of being able to serve it via [Cloudflare](https://www.cloudflare.com/en-au/).
 
