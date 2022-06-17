@@ -1,12 +1,11 @@
 ---
 title: From One Currency to Another
 subtitle: Redesigning the experience of exchanging foreign currency
-date: 2022-06-16 14:00:00 +0000
+date: 2022-06-16T14:00:00.000+00:00
 description: asdas
 featured_image: ''
 accent_color: ''
 gallery_images: []
-published: false
 
 ---
 ###### **Introduction**
