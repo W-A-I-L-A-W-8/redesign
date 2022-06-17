@@ -2,7 +2,8 @@
 title: From One Currency to Another
 subtitle: Redesigning the experience of exchanging foreign currency
 date: 2022-06-16T14:00:00.000+00:00
-description: asdas
+description: For confidentiality reasons some content may have been omitted or altered.
+  In some instances, the designs have been reinterpreted.
 featured_image: ''
 accent_color: ''
 gallery_images: []
@@ -81,3 +82,55 @@ Not only were forms on the long side but micro-copy and form layout were all ele
 **Useful information**
 
 We discovered that people would like a level of personalisation in their interface. Simple data showing transfer history, pending transfers were all deemed useful. People also desired live data in the form of currency tools such as current foreign exchange rates.
+
+###### **What does the current experience look like?**
+
+### Judging the user interface
+
+**Heuristic evaluation** · Following Jakob Nielsen's 10 general principles for interaction design.
+
+**Key problem areas:**
+
+**Visibility of system status**
+
+* Users were confused. They were not being informed and uncertainty was on the rise which usually implies that user confidence is low.
+
+**Irrelevant information**
+
+* E.g. No purpose to this static map below.
+
+**Flexibility & efficiency of use**
+
+* Keyboard shortcuts and touch gestures
+* Opportunity for personalisation
+* Allow for customisation
+
+###### ![](https://lh4.googleusercontent.com/c8lYV2pR9xiDy9rWFcIJJHPgHsQF3GWorosDMGR3v-4mXdIld7WIoDAi6nJneDLw9VI9ltboJvDpUvp6riIGPtSO5TEkWYHuXKQth5784n1Fi0En7D0PU-NlR0_14hQbUaBG2-THO58BUxcYCtPBcQ =298px;x171px;)  
+**Competitive UX Analysis**
+
+### What others are doing?  
+**Purpose:** To identify key usability strengths and weaknesses.
+
+**Analysis Objectives**
+
+Review the features and functionality we observed throughout the various competitors’ websites and then provide several recommendations.
+
+**We want to learn:**
+
+1. How efficient it is to use.
+2. Are interactions predictable and intuitive.
+3. Could communication of system status be improved.
+
+**Strengths:**
+
+* **A**
+* **B**
+* **C**
+
+**Weaknesses:**
+
+* **A**
+* **B**
+* **C**
+
+![](https://lh6.googleusercontent.com/bw3yVNP4Y2-UeXs1f1m0f7dWS7F5xVdbCAX9D2QETwqwgoPs22kyNcMxFRoTsPSW2r7QhJjihNsaF5vSTuZWeyHDyW3XFd-G51kYPEuakhrTlw-AbrTVSK9UjS-U5IaLFQsFFI0D_jDm-iw8RUH-cQ =95px;x63px;)![](https://lh4.googleusercontent.com/phVMboRbauAZ50DRY4OXC4rJ2ECmd-rFwj6e-2a73Ab7KoN8bDhiHxSEMYaBER5fC75lBgEsYH6xlcTGoevs1bVue-TNJLSnxa581V4PJsN6MYxSzQGjQvC6RkE3O_T9th-ZshYMjxomTegLjh8yMA =121px;x63px;)
