@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _data
+  label: Site settings
+  create: all
+  match: "**/*"
+- type: directory
   path: _includes
   label: Includes
   create: all
