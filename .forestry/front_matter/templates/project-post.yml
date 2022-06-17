@@ -24,4 +24,5 @@ fields:
   name: gallery_images
   label: gallery_images
 pages:
+- _projects/from-one-currency-to-another.md
 - _projects/the-availability-calendar.md
