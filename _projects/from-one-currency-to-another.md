@@ -4,7 +4,7 @@ subtitle: Redesigning the experience of exchanging foreign currency
 date: 2022-06-16T14:00:00.000+00:00
 description: For confidentiality reasons some content may have been omitted or altered.
   In some instances, the designs have been reinterpreted.
-featured_image: ''
+featured_image: "/uploads/from-one-currency-to-another.jpg"
 accent_color: ''
 gallery_images: []
 published: false
@@ -105,10 +105,10 @@ We discovered that people would like a level of personalisation in their interfa
 * Opportunity for personalisation
 * Allow for customisation
 
-###### ![](https://lh4.googleusercontent.com/c8lYV2pR9xiDy9rWFcIJJHPgHsQF3GWorosDMGR3v-4mXdIld7WIoDAi6nJneDLw9VI9ltboJvDpUvp6riIGPtSO5TEkWYHuXKQth5784n1Fi0En7D0PU-NlR0_14hQbUaBG2-THO58BUxcYCtPBcQ =298px;x171px;)  
-**Competitive UX Analysis**
+###### **Competitive UX Analysis**
 
-### What others are doing?  
+### What others are doing?
+
 **Purpose:** To identify key usability strengths and weaknesses.
 
 **Analysis Objectives**
@@ -132,5 +132,3 @@ Review the features and functionality we observed throughout the various competi
 * **A**
 * **B**
 * **C**
-
-![](https://lh6.googleusercontent.com/bw3yVNP4Y2-UeXs1f1m0f7dWS7F5xVdbCAX9D2QETwqwgoPs22kyNcMxFRoTsPSW2r7QhJjihNsaF5vSTuZWeyHDyW3XFd-G51kYPEuakhrTlw-AbrTVSK9UjS-U5IaLFQsFFI0D_jDm-iw8RUH-cQ =95px;x63px;)![](https://lh4.googleusercontent.com/phVMboRbauAZ50DRY4OXC4rJ2ECmd-rFwj6e-2a73Ab7KoN8bDhiHxSEMYaBER5fC75lBgEsYH6xlcTGoevs1bVue-TNJLSnxa581V4PJsN6MYxSzQGjQvC6RkE3O_T9th-ZshYMjxomTegLjh8yMA =121px;x63px;)
