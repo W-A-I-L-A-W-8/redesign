@@ -8,11 +8,12 @@ featured_image: "/projects/from-one-currency-to-another.jpg"
 accent_color: ''
 gallery_images:
 - "/projects/from-one-currency-to-another.jpg"
+published: false
 
 ---
-###### **Introduction**
+#### **Introduction**
 
-### Reinvigorate the movement of funds
+**Reinvigorate the movement of funds**
 
 Originally launched as an enterprise SaaS product to fulfil an urgent business need but unfortunately it was never designed.
 
@@ -23,9 +24,9 @@ The company’s goal being to provide a hassle-free business account solution sp
 * Pay someone, get paid &
 * Transfer currencies.
 
-###### **My Role**
+#### **My Role**
 
-### Aligning design with strategic goals
+#### **Aligning design with strategic goals**
 
 In a consulting capacity with 3 months at my disposal I was embedded to provide a tactical approach for improving overall experience of the platform and implement a way to scale and maintain assets.
 
@@ -36,7 +37,7 @@ In a consulting capacity with 3 months at my disposal I was embedded to provide 
 * Concepts for a mobile app solution
 * The foundations of a design system
 
-> ## Build retention and grow the user base
+> Build retention and grow the user base
 
 ###### **The Challenge**
 
