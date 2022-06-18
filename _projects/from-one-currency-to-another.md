@@ -4,10 +4,10 @@ subtitle: Redesigning the experience of exchanging foreign currency
 date: 2022-06-16T14:00:00.000+00:00
 description: For confidentiality reasons some content may have been omitted or altered.
   In some instances, the designs have been reinterpreted.
-featured_image: "from-one-currency-to-another.jpg"
+featured_image: from-one-currency-to-another.jpg
 accent_color: ''
 gallery_images:
-- "/projects/from-one-currency-to-another.jpg"
+  - projects/from-one-currency-to-another.jpg
 published: false
 
 ---
