@@ -1,7 +1,7 @@
 ---
-title: Static Site Generators are cool
+title: Static Site Generators are Stupendous
 date: 2020-09-11 00:00:00
-description: A designer's POV on this topic.
+description: A designer's point of view.
 featured_image: '/images/SSG.png'
 ---
 
