@@ -9,14 +9,14 @@ menu_settings:
   menu_items:
   - title: Projects
     url: "/"
-  - title: Posts
+  - title: Writing
     url: "/blog/"
   - title: Profile
     url: "/profile"
 footer_settings:
   logo_image: 
   logo_width: "50"
-  tagline: Helping you to realise your vision.
+  tagline: Tactically realising your vision.
 hero_settings:
   background_image: 
 post_settings:
@@ -25,7 +25,7 @@ contact_settings:
   email_address: hello@wailaw.me
   form_action: https://formspree.io/f/mvolzkjw
   confirmation_url: "/thanks"
-  email_subject: Contact form submission
+  email_subject: Make an enquiry
   send_button_text: Get in Touch
 social_settings:
   facebook_url: ''
