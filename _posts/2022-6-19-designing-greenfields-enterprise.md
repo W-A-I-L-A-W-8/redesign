@@ -1,12 +1,13 @@
 ---
-title: Static Site Generators are cool
+title: No Clear Direction
 date: 2020-09-11 00:00:00
-description: A designer's POV on this topic.
-featured_image: '/images/SSG.png'
+description: How might you design for a 'greenfields' project that has no specific goals or a clear vision.
+featured_image: '/images/demo.jpg'
+published: false
 ---
 
-I love tools and tech that can make one's life easier.  [Jekyll](https://jekyllrb.com/) is one of these and I've been fan-boy for a few years now.
-![Jekyll logo from jekyllrb.com](https://jekyllrb.com/img/jekyll-og.png)
+#### What is Greenfield Software Development?
+Greenfield development refers to developing a system for a totally new environment and requires development from a ...
 
 
 As Jekyll say, it's: 
@@ -15,7 +16,7 @@ As Jekyll say, it's:
 
 From where I'm sitting it has a been dream tool, for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my this site using the platform.  I've been on Jekyll for almost five years now so I wanted to write this short piece to illustrate some of the main benefits I have reaped over the last few years and specifically from a designers point of view.
 
-#### What do you need to know in order to "play nice" with Jekyll
+#### My Role
 Here's a few things to consider before you plough head-first into Jekyll.  Not saying there's anything wrong with doing that...after all, that's how I got started.
 
 * Understanding of NPM.

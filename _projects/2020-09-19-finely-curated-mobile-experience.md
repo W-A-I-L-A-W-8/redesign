@@ -7,7 +7,7 @@ featured_image: finely-curated-feature2.jpg
 gallery_images:
   - finely-curated-feature2.jpg
   - travelBookingApp_feature_img1.png
-accent_color: '#6667AB'
+accent_color: '#2bb8b8'
 published: true
 ---
 

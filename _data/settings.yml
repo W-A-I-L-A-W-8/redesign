@@ -57,17 +57,16 @@ social_settings:
 color_settings:
   background_color: "#ffffff"
   background_alt_color: "#f4f5f6"
-  text_dark_color: "#202224"
+  text_dark_color: "#041212"
   text_medium_color: "#6C7A89"
   text_light_color: "#AEB3BB"
-  accent_color: "#6667AB"
-  border_color: "#ECEDEF"
+  accent_color: "#2bb8b8"
+  border_color: "#041212"
   error_color: "#D64541"
 font_settings:
-  font_embed: <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600&display=swap"
-    rel="stylesheet">
-  title_font: Titillium Web, sans-serif;
-  body_font: '"Titillium Web", sans-serif;'
+  font_embed: <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&family=Ubuntu+Mono&display=swap" rel="stylesheet">
+  title_font: Rubik, sans-serif;
+  body_font: Ubuntu Mono, monospace;
   regular_weight: "400"
   bold_weight: "700"
   site_title:
@@ -81,7 +80,7 @@ font_settings:
     medium_size: "15"
     large_size: "17"
     weight: "600"
-    letter_spacing: "0"
+    letter_spacing: "2"
   h1:
     size: "64"
     size_small: "42"
@@ -177,6 +176,6 @@ advanced_settings:
     src="https://www.googletagmanager.com/gtag/js?id=UA-63812507-1"></script> <script>   window.dataLayer
     = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js',
     new Date());    gtag('config', 'UA-63812507-1'); </script>
-  custom_styles: ''
+  custom_styles: '.recent-posts {background-color: #F7FCFC;}'
   header_js: ''
   footer_js: ''
