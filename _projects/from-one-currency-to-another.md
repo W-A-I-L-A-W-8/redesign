@@ -2,7 +2,7 @@
 title: From One Currency to Another
 subtitle: Redesigning the experience of exchanging foreign currency
 date: 2022-06-16T14:00:00.000+00:00
-description: The
+description: On a short tenure with a limited budget and access to users, this is the story of how I reconceptualised the user experience of an exsiting platform where design was not originally a consideration.
 featured_image: forexMob_1.jpg
 accent_color: '#2bb8b8'
 gallery_images:
