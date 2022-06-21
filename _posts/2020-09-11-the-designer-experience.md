@@ -1,7 +1,7 @@
 ---
-title: Static Site Generators are cool
+title: Static Site Generators are Stupendous
 date: 2020-09-11 00:00:00
-description: A designer's POV on this topic.
+description: A designer's point of view.
 featured_image: '/images/SSG.png'
 ---
 
@@ -13,7 +13,7 @@ As Jekyll say, it's:
 
 > “Simple, static, and blog-aware.”
 
-From where I'm sitting it has a been dream tool, for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my this site using the platform.  I've been on Jekyll for almost five years now so I wanted to write this short piece to illustrate some of the main benefits I have reaped over the last few years and specifically from a designers point of view.
+From where I'm sitting it has a been dream tool, for creating an incredibly fast, static website without the clutter.  Precisely, the reason I built my this site using Jekyll.  I've been on Jekyll for almost five years now so I wanted to write this short piece to illustrate some of the main benefits I have reaped over the last few years and specifically from a designers point of view.
 
 #### What do you need to know in order to "play nice" with Jekyll
 Here's a few things to consider before you plough head-first into Jekyll.  Not saying there's anything wrong with doing that...after all, that's how I got started.
