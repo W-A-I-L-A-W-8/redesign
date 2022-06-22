@@ -33,7 +33,7 @@ For this post I am drawing from my experience working on a team that built a pro
 Being greenfields, at the outset of a project it is not unusual for there to be no clear vision or specific goals for the experience.  Without pre-existing insights, one of the first things you should do is map out a 30-60 plan of how you might tackle the project.
 
 ###### Partner up!
-Talk to people! Partner up with anyone you can who is on the project.  Teams maybe small at the beginning and it is likely that as a designer, you might well be one of the first in.  Speak to your product owners, business analysts and solutions architects to understand the product what it is you are building.  How might this look, what were the requirements, the needs and the business rules.  In addition to my knowledge gaps it will be an extra learning curve.
+Talk to people! Partner up with anyone you can who is on the project.  Teams maybe small at the beginning and it is likely that as a designer, you might well be one of the first in.  Speak to your product owners, business analysts and solutions architects to understand the product and what it is you are building.  How might this look, what are the requirements, the needs and the business rules.  In addition to any knowledge gaps it will be an extra learning curve.
 
 ###### Ask the experts
 If you are working on a brand new product with no retail presence, I can anticipate there would be no user base.  However, research the space and you might stumble across a breadth of subject matter expertise.  Do some detective work and interview the experts.
