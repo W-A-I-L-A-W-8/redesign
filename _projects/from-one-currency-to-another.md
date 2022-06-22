@@ -15,9 +15,9 @@ _For confidentiality reasons some content may have been omitted or altered.  In 
 
 ### Reinvigorate the movement of funds
 
-This was originally launched as an enterprise SaaS product as a web application for desktop resolution.  It was knee-jerk reaction to an urgent business need but unfortunately it was never designed.
+Originally launched as a web based SaaS product.  It was a knee-jerk reaction to an urgent business need but unfortunately it was never designed.
 
-The company’s goal being to provide a hassle-free business account solution specifically for overseas, education providers managing their cash-flow.
+The company’s goal being to provide a hassle-free business account solution specifically for overseas, education providers managing their cash-flows.
 
 **The purpose being to:**
 
@@ -25,7 +25,7 @@ The company’s goal being to provide a hassle-free business account solution sp
 * Transfer currencies.
 
 ### My Role
-**Aligning design with strategic**
+**Aligning design with strategy**
 
 In a consulting capacity with 3 months at my disposal I was embedded to provide a tactical approach for improving overall experience of the platform and implement a way to scale and maintain assets.
 
