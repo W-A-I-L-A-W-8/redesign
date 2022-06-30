@@ -2,7 +2,7 @@
 layout: post
 title: A tale of responsiveness (or rather, lack of it)
 featured_image: '/images/projects/CnK-responsive.png'
-published: true
+published: false
 ---
 
 The original brand website (Last designed and developed in 2009) was not all that bad to look at and due largely to the company's reputation and longevity in the industry, conversion rates were surprisingly decent.
