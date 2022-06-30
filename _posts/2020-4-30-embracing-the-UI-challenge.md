@@ -3,7 +3,7 @@ layout: post
 title: Embracing the UI Challenge
 date: 2020-04-30 00:00:00
 description: A guide to tackling the UI Challenge
-featured_image: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/62084c66600123.5b1b2ee3025ed.jpg'
+featured_image: '/images/posts/uiChallenge_1.png'
 published: true
 ---
 
