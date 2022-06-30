@@ -2,7 +2,7 @@
 layout: post
 title: Embracing the UI Challenge
 date: 2020-04-30 00:00:00
-description: Using a static site generator reduced cognitive friction
+description: A guide to tackling the UI Challenge
 featured_image: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/62084c66600123.5b1b2ee3025ed.jpg'
 published: true
 ---
@@ -12,10 +12,6 @@ Your bread and butter as a designer, well...is to design.  Once in while you may
 > “Here's one I made earlier.”
 
 (Quote; Blue Peter, well known British kids TV show)
-
-It has been some time since I've completed one of these but here's an example from a couple of years ago.  The screen below was what I was given to work on.  For context it's an interface used by a cyber security company to capture some staple data at a glance for the user.
-
-![Before screen for UI Challenge](https://mir-s3-cdn-cf.behance.net/project_modules/fs/1df3bc66600123.5b1b2ee301ea1.jpg)
 
 ---
 
@@ -50,8 +46,4 @@ By nature the human eye will scan a page from left to right, top to bottom.  In 
 ---
 
 ## Challenge complete
-That's it! Design done, ship it for review.  It is always good practice to follow a few simple principles.  It helps you to justify your design choices and instils confidence in your own abilities as a designer.  For your eyes only, here are the two screens I submitted.
-
-![Light concept for UI Challenge](https://mir-s3-cdn-cf.behance.net/project_modules/fs/dbd1ec66600123.5b1b2ee302cdb.jpg)
-
-![Dark concept for UI Challenge](https://mir-s3-cdn-cf.behance.net/project_modules/fs/62084c66600123.5b1b2ee3025ed.jpg)
+That's it! Design done, ship it for review.  It is always good practice to follow a few simple principles.  It helps you to justify your design choices and instils confidence in your own abilities as a designer.
