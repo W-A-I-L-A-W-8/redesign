@@ -17,7 +17,7 @@ This emerging technology has been around in the travel space for a number of yea
 
 #### My Role
 
-For us Experience Designers a large part of the job is to design products and digital services that are great for the end user but we also need to design for the business too.  In this project I assumed my usual role as, UX Designer but I also played the part of Product Owner too.
+For us Experience Designers a large part of the job is to design products and digital services that are great for the end user but we also need to design for the business too.  In this project I assumed my usual role as, UX Designer but I also played the part of Product Manager too.
 
 #### What were the problems or opportunities that the organisation were facing?
 
