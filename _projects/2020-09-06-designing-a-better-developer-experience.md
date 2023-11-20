@@ -1,7 +1,7 @@
 ---
 title: Design quality assurance, ship faster and better
 subtitle: Building scalable design guidelines
-date: 2022-01-10T00:00:00.000+00:00
+date: 2023-01-10T00:00:00.000+00:00
 description: Better collaboration amongst delivery teams and scalability.
 featured_image: designQA_feature2.jpg
 accent_color: "#2bb8b8"
