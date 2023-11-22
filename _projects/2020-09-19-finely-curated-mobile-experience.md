@@ -7,7 +7,7 @@ featured_image: finely-curated-feature2.jpg
 gallery_images:
   - finely-curated-feature2.jpg
   - travelBookingApp_feature_img1.png
-accent_color: '#2bb8b8'
+accent_color: '#F64A25'
 published: true
 ---
 
@@ -24,7 +24,7 @@ This is a B2B platform for booking and managing hotel reservations and was origi
 
 #### My Role
 
-This was prodominently a UX piece for me.  My job was to deliver the best possible experience across multiple device.  Fortunately, I have designed a number of travel related applications for mobile in a previous life so I was pretty confident we could release a great outcome. 
+This was prodominently a UX piece for me.  My job was to deliver the best possible experience across multiple device.  Fortunately, I have designed a number of travel related applications for mobile in a previous life so I was pretty confident we could release a great outcome.
 
 #### Pain Points
 The primary problem here was not the lack of content but how we squeeze all of it onto the small screen.  We ran some research and we discovered that cognitively, it presented a problem to many users.  It was just too messy for many of them and created a feeling of anxiety.  The plan was to get into the mockups straight away to anticipate the usability issues.  We received great feedback from the main users and they were definitely heard.
@@ -97,7 +97,7 @@ Another great example is allowing to the user to toggle prices from show to hide
 #### Constraints
 The end goal was to achieve the most enjoyable experience for this product when used on a mobile device.  However, there were some specific constraints that we needed to keep at the forefront of our minds when designing the experience.
 
-Screen Size | Smaller screens can increase congnitive friction so we needed to restructure information, consider key thumb zones, decrease clicks. 
+Screen Size | Smaller screens can increase congnitive friction so we needed to restructure information, consider key thumb zones, decrease clicks.
 Externalities | Using data to browse can mean users are prone to dropping in and out of signal.  We had to think about save points and avoiding having to start their tasks from the beginning again.
 Multiple screen sizes | Designing responsively limits what we make visible on screen.  We could have designed around multi-screen use but we decided the best approach was to use familiar UI elements that could be hidden if not needed or considered primary.  I.E. expand and collapse elements, tabs.  This allowed us to fit a lot of information in but kept the presentation tidy.
 Is the user left or right handed, both hands, landscape or portrait? | I'm talking about how they interact with their device.  Use the rule of thirds and keep key actions in the middle, design for all and large touch points.

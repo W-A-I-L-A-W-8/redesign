@@ -6,7 +6,7 @@ description: On a short tenure with a limited budget and access to users, this i
   the story of how I reconceptualised the user experience of an exsiting platform
   where design was not originally a consideration.
 featured_image: forexMob_1.jpg
-accent_color: "#2bb8b8"
+accent_color: "#F64A25"
 gallery_images:
 - forexMob_1.jpg
 - forexMob_2.jpg
