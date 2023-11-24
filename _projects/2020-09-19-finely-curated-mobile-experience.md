@@ -5,7 +5,6 @@ date: 2020-08-10 00:00:00
 description: Creating a great booking experience across multiple screen resolutions.
 featured_image: finely-curated-feature2.jpg
 gallery_images:
-  - finely-curated-feature2.jpg
   - travelBookingApp_feature_img1.png
 accent_color: '#F64A25'
 published: true

@@ -9,7 +9,6 @@ featured_image: forexMob_1.jpg
 accent_color: "#F64A25"
 gallery_images:
 - forexMob_1.jpg
-- forexMob_2.jpg
 
 ---
 _For confidentiality reasons some content may have been omitted or altered.  In some instances, the designs have been reinterpreted_
