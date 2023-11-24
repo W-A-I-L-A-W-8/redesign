@@ -1,9 +1,9 @@
 ---
-title: From One Currency to Another
-subtitle: Redesigning the flow of funds experience
+title: Redesigning the flow of funds
+subtitle: Currency exchange experience
 date: 2022-06-16T14:00:00.000+00:00
-description: On a short tenure with a limited budget and access to users, this is
-  the story of how I reconceptualised the user experience of an exsiting platform
+description: On a short term tenure with a limited budget and access to users, this is
+  the story of how I reconceptualised the user experience of an existing platform
   where design was not originally a consideration.
 featured_image: forexMob_1.jpg
 accent_color: "#F64A25"

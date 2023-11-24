@@ -50,7 +50,7 @@ featured_image: /images/wailaw-stylised-pic.png
 					<p class="project__description --small">
 						{{ project.description }}
 						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View case study</a>
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">Read this</a>
 					</p>
 				</div>
 			</article>
@@ -65,7 +65,7 @@ featured_image: /images/wailaw-stylised-pic.png
 		<div class="wrap grid">
 			<header class="recent-posts__header">
 				<h4>Recent posts</h4>
-				<a href="{{ '/blog/' | relative_url }}" class="action button--text--accent --right">All posts</a>
+				<!-- <a href="{{ '/blog/' | relative_url }}" class="action button--text--accent --right">All posts</a> -->
 			</header>
 
 			<div class="recent-posts__list grid">
@@ -77,5 +77,7 @@ featured_image: /images/wailaw-stylised-pic.png
 			<a href="{{ '/blog/' | relative_url }}" class="action-bottom button--text--accent --right">All posts</a>
 		</div>
 	</section>
+
+	{% include component__review.html %}
 
 </div>
