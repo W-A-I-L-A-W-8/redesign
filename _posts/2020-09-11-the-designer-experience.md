@@ -1,6 +1,5 @@
 ---
 title: Static Site Generators are Stupendous
-date: 2020-09-11 00:00:00
 description: A designer's point of view.
 featured_image: '/images/SSG.png'
 ---
@@ -9,7 +8,7 @@ I love tools and tech that can make one's life easier.  [Jekyll](https://jekyllr
 ![Jekyll logo from jekyllrb.com](https://jekyllrb.com/img/jekyll-og.png)
 
 
-As Jekyll say, it's: 
+As Jekyll say, it's:
 
 > “Simple, static, and blog-aware.”
 

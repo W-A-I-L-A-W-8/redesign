@@ -2,7 +2,7 @@
 title: Introducing our new friend, Smart Travel Assistant
 subtitle: Exploring AI and developing a strategy for integrating a chatbot solution
 date: 2020-09-11T00:00:00.000+00:00
-description: This piece is about how we developed a strategy for implenting an AI/ML
+description: This piece is about how I contributed to developing a strategy for implementing an AI/ML
   solution to solve the organisation's customer satisfaction problem.
 featured_image: chatbot-1.png
 accent_color: "#F64A25"

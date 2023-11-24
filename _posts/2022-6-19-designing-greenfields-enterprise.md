@@ -1,6 +1,5 @@
 ---
 title: Finding direction amongst the chaos
-date: 2022-06-06 00:00:00
 description: How might you design for a 'greenfields' project that has no specific goals or a clear vision.
 featured_image: '/images/posts/greenfields_1.jpg'
 published: true
@@ -39,7 +38,7 @@ Talk to people! Partner up with anyone you can who is on the project.  Teams may
 If you are working on a brand new product with no retail presence, I can anticipate there would be no user base.  However, research the space and you might stumble across a breadth of subject matter expertise.  Do some detective work and interview the experts.
 
 ###### The edge case hypothesis
-**Happy path, different cases and edge cases** 
+**Happy path, different cases and edge cases**
 
 In certain situations we have to design for the edge case.  I am a huge advocate of doing so.  If you look after the edge cases, the rest of your audience will inevitably be satisfied.  User journeys can be evolved from a set of user stories using “sunny day” and “rainy day” scenarios.  Which are usually derived from the most probable scenarios.  Work with your Business Analysts and Product Owners to define these.  Buy-in can be obtained from stakeholders.  The conversations had with SMEs will help to validate any assumptions.
 
@@ -67,19 +66,14 @@ Ensure your UI interacts in the best way for your users.  For example applying t
 #### Learn on the job
 Use your gig to keep learning and evolving as a designer.  Keep the following tenets at the forefront of your thinking.
 
-###### Design for visualisation: 
+###### Design for visualisation:
 Many products today place huge emphasis on data and how it can be consumed by users.  Understand the best way to represent data on a screen.  Help to tell a story about the data to move it from, interpretation to insight.
 
 ###### Design for mobility:  
 Users must be able to work and play with information “on the go” and make discovery a portable, personalised experience.
 
-###### Design for Search: 
-If there's a plethora of data, consider how a user might effectively search for it. 
+###### Design for Search:
+If there's a plethora of data, consider how a user might effectively search for it.
 
-###### Design for user journeys: 
+###### Design for user journeys:
 In an omni-channel world, the entry point and traversal of any workflow could cross multiple channels.  Pre-defined workflows are almost impossible to design or anticipate.  Instead, consider how you might handle complete flexibility of user journeys between state / event transitions.
-
-
-
-
-

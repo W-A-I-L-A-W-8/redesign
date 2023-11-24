@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Embracing the UI Challenge
-date: 2020-04-30 00:00:00
 description: A guide to tackling the UI Challenge
 featured_image: '/images/posts/uiChallenge_1.png'
 published: true
