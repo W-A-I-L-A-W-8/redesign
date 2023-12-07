@@ -4,6 +4,7 @@ subtitle: Currency exchange experience
 description: On a short term tenure with a limited budget and access to users, this is
   the story of how I reconceptualised the user experience of an existing platform
   where design was not originally a consideration.
+date: 2020-06-30 00:00:00
 featured_image: forexMob_1.jpg
 accent_color: "#F64A25"
 gallery_images:
