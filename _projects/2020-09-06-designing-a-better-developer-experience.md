@@ -9,11 +9,11 @@ gallery_images:
 - designQA_feature2.jpg
 
 ---
-#### Our overall experience at Boroondara is fractured
+#### Our overall experience at Boroondara was fractured
 
-From the website to individual products, our brand is inconsistent. The underlying issues are like an iceberg: slightly visible from the surface, but the ramifications run much deeper than meets the eye.
+From the website to individual products, the brand was inconsistent. The underlying issues were like an iceberg: slightly visible from the surface, but the ramifications ran much deeper than meets the eye.
 
-As a result, customer satisfaction is dipping. Product development is losing velocity. Collaboration is difficult.
+As a result, customer satisfaction dipped. Product development was losing velocity. Collaboration was difficult.
 
 #### My Role
 
