@@ -6,7 +6,7 @@ description: On a short term tenure with a limited budget and access to users, t
   where design was not originally a consideration.
 date: 2020-06-30 00:00:00
 featured_image: forexMob_1.jpg
-accent_color: "#F64A25"
+accent_color: "#041212"
 gallery_images:
 - forexMob_1.jpg
 

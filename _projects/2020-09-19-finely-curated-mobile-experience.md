@@ -6,8 +6,8 @@ description: Creating a great booking experience across multiple screen resoluti
 featured_image: finely-curated-feature2.jpg
 gallery_images:
   - travelBookingApp_feature_img1.png
-accent_color: '#F64A25'
-published: true
+accent_color: '#041212'
+published: false
 ---
 
 #### From cluttered desktop to tidy small devices

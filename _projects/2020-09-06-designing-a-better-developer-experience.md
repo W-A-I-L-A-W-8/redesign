@@ -4,7 +4,7 @@ subtitle: Building scalable design guidelines
 date: 2021-06-30 00:00:00
 description: Consistency for users, improved collaboration amongst delivery teams and scalability benefits.
 featured_image: designQA_feature2.jpg
-accent_color: "#F64A25"
+accent_color: "#041212"
 gallery_images:
 - designQA_feature2.jpg
 

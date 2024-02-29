@@ -5,7 +5,7 @@ date: 2020-06-30 00:00:00
 description: This piece is about how I contributed to developing a strategy for implementing an AI/ML
   solution to solve the organisation's customer satisfaction problem.
 featured_image: chatbot-1.png
-accent_color: "#F64A25"
+accent_color: "#041212"
 gallery_images:
 - chatbot-1.png
 
