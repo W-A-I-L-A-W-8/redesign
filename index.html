@@ -2,7 +2,7 @@
 layout: default
 overtitle: Designing Product & UX since 2010
 title: Wai Law
-description: Stuff, I've recently designed for humans. I reimagined an old HTML page builder as a no-code, drag and drop, page building experience, designed an AI auto-tagging component with transcription and text to image search, optimised a design system helping to reduce debt accrued over 14 years which quickly put value in the hands of the customer.
+description: Stuff, I've recently designed for humans. I reimagined an old HTML page builder as a no-code, drag and drop, page building experience, created an auto-tagging component, designed the UI for an AI powered search and optimised a design system, helping to reduce debt accrued over 14 years.
 featured_image: /images/wailaw-stylised-pic.png
 ---
 
@@ -27,7 +27,25 @@ featured_image: /images/wailaw-stylised-pic.png
 		</div>
 	</section>
 
-	<!-- {% include component__profile.html %} -->
+	<section class="recent-posts">
+		<div class="wrap grid">
+			<header class="recent-posts__header">
+				<h4>I can help you with these things</h4>
+				<!-- <a href="{{ '/blog/' | relative_url }}" class="action button--text--accent --right">All posts</a> -->
+				<p class="intro subtitle--light">
+					 Let's talk, <a href="https://calendly.com/designwithwai/30min"><strong>get in touch today</strong></a> to find out where I can provide support. My name is <strong>Wai</strong>, rhymes with hay and the month of May.
+				</p>
+			</header>
+
+			<div class="recent-posts__list grid">
+				{% for post in site.posts limit: 3 %}
+				{% include component__post-preview.html %}
+				{% endfor %}
+			</div>
+
+			<a href="{{ '/blog/' | relative_url }}" class="action-bottom button--text--accent --right">Posts</a>
+		</div>
+	</section>
 
 	<section class="listing">
 		<div class="wrap">
@@ -61,21 +79,6 @@ featured_image: /images/wailaw-stylised-pic.png
 
 	{% include component__review.html %}
 
-	<section class="recent-posts">
-		<div class="wrap grid">
-			<header class="recent-posts__header">
-				<h4>Posts</h4>
-				<!-- <a href="{{ '/blog/' | relative_url }}" class="action button--text--accent --right">All posts</a> -->
-			</header>
 
-			<div class="recent-posts__list grid">
-				{% for post in site.posts limit: 3 %}
-				{% include component__post-preview.html %}
-				{% endfor %}
-			</div>
-
-			<a href="{{ '/blog/' | relative_url }}" class="action-bottom button--text--accent --right">Posts</a>
-		</div>
-	</section>
 
 </div>
