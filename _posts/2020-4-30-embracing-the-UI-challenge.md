@@ -3,7 +3,7 @@ layout: post
 title: Embracing the UI Challenge
 description: A guide to tackling the UI Challenge
 featured_image: '/images/posts/uiChallenge_1.png'
-published: true
+published: false
 ---
 
 Your bread and butter as a designer, well...is to design.  Once in while you may get asked to knock-up some quick UI concepts.  It could be for a new role or your existing organisation may require some sort of POC.  Commonly, they'll both have nothing to give you in terms of a brief or a spec.  This is pretty standard, so get used to it!  It is even more common that you will be given a screen grab of a previous or current design that they are wishing to improve upon.  This is commonly known in the field as a design challenge.  The idea being to tease your creativity and tease out some new ideas.

@@ -2,6 +2,7 @@
 title: Static Site Generators are Stupendous
 description: A designer's point of view.
 featured_image: '/images/SSG.png'
+published: false
 ---
 
 I love tools and tech that can make one's life easier.  [Jekyll](https://jekyllrb.com/) is one of these and I've been fan-boy for a few years now.
