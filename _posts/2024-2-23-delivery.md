@@ -1,6 +1,6 @@
 ---
-title: Level up your Design Practice
-description: Tidy up your design workflow, manage your design tasks efficiently, clean up your design roadmap
-featured_image: '/images/posts/service1.png'
+title: Rev up your UX Game
+description: Refine your design vibes, manage your tasks efficiently, polish up your design process.
+featured_image: '/images/posts/undraw_futuristic_interface_re_0cm6.svg'
 published: true
 ---

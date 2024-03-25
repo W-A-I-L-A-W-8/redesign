@@ -1,6 +1,6 @@
 ---
-title: Beneath the tip of the iceberg
-description: Below the surface. Uncover unknown UX nuances and UI quirks.
-featured_image: '/images/posts/service5.png'
+title: Research Below the Surface
+description: Deep-dive beneath the tip of the iceberg. Uncover unknown UX nuances and UI quirks.
+featured_image: '/images/posts/belowsurface.svg'
 published: true
 ---

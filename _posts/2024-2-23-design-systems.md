@@ -1,6 +1,6 @@
 ---
-title: Optimise your UI Component Library
-description: Systematically manage your UX and UI. Audit existing libraries and extract best in breed patterns, refining the visual language, maintain and scale your products.
-featured_image: '/images/posts/service3.png'
+title: Optimise your Design Systems
+description: Harness the power of your libraries. Ship fast, scale and make maintainance less of a chore.
+featured_image: '/images/posts/undraw_design_components_9vy6.svg'
 published: true
 ---

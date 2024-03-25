@@ -1,6 +1,6 @@
 ---
-title: Declutter your interfaces
-description: Systematically manage your UX and UI. Audit existing libraries and extract best in breed patterns, refining the visual language, maintain and scale your products.
-featured_image: '/images/posts/service4.png'
+title: Unfettered UI Artistry
+description: Accerlerate delivery, advance swiftly. Declutter and reduce costs.
+featured_image: '/images/posts/undraw_website_builder_re_ii6e.svg'
 published: true
 ---
