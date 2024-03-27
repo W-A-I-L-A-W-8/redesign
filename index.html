@@ -33,7 +33,7 @@ featured_image: /images/wailaw-stylised-pic.png
 				<h4>On-demand Product Design Support</h4>
 				<!-- <a href="{{ '/blog/' | relative_url }}" class="action button--text--accent --right">All posts</a> -->
 				<p class="intro subtitle--light">
-					 <a href="https://calendly.com/designwithwai/30min"><strong>Let's talk</strong></a>, get started with a quick audit. My name is <strong>Wai</strong>, rhymes with hay and the month of May. Need my help for a contract? Get my <a href="https://wailaw.me/wailaw_designLead_cv_contractor.pdf">CV</a>
+					 <a href="https://calendly.com/designwithwai/30min"><strong>Let's talk</strong></a>, get started with a quick audit. My name is <strong>Wai</strong>, rhymes with hay and the month of May. Need my help on a complex contract? Save a copy of my <a href="https://wailaw.me/wailaw_designLead_cv_contractor.pdf">CV</a> and get in touch.
 				</p>
 			</header>
 
@@ -48,6 +48,7 @@ featured_image: /images/wailaw-stylised-pic.png
 	</section>
 
 	<section class="listing">
+		{% include component__review.html %}
 		<div class="wrap">
 
 			{% for project in site.projects reversed %}
@@ -74,11 +75,10 @@ featured_image: /images/wailaw-stylised-pic.png
 			</article>
 
 			{% endfor %}
+
 		</div>
+
 	</section>
 
-	{% include component__review.html %}
-
-
-
+		{% include component__review1.html %}
 </div>
