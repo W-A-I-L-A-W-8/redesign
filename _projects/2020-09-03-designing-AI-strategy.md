@@ -7,7 +7,7 @@ description: This piece is about how I contributed to developing a strategy for 
 featured_image: chatbot-1.png
 accent_color: "#041212"
 gallery_images:
-- chatbot-1.png
+- ChatbotFeature.png
 
 ---
 #### Use of AI in the Travel Industry

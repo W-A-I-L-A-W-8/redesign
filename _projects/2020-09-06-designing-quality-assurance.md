@@ -1,12 +1,12 @@
 ---
-title: Design quality assurance, ship faster and ship what people need
-subtitle: Building accessible and scalable design guidelines
+title: Crafting accessible patterns for diverse audiences
+subtitle: Building inclusive and scalable design guidelines
 date: 2021-06-30 00:00:00
 description: Consistency for users, improved collaboration amongst delivery teams with scalability benefits.
 featured_image: designQA_feature2.jpg
 accent_color: "#041212"
 gallery_images:
-- designQA_feature2.jpg
+- CoBDS.png
 
 ---
 #### Our overall experience at Boroondara was fractured
@@ -21,11 +21,11 @@ As part of my government tenure one of my remits was to establish a set of guide
 
 ###### Some Key Considerations
 
-After collating exisiting research and conducting a UI audit, it was clear that the organisation could benefit greatly from having a set style guidelines.  Before jumping in head-first I wanted to validate if there was real value in it.  This is what I discovered:
+After collating existing research and conducting a UI audit, it was clear that the organisation could benefit greatly from having a set style guidelines.  Before jumping in head-first I wanted to validate if there was real value in it.  This is what I discovered:
 
 * There was no current design system but a plan to create one.
 * There were significant benefits that could be achieved through developing a reusable UI component library or ecosystem.
-* The organisation were admist a transformation and needed to be able to design with a common language and consistent aesthetic.
+* The organisation were amidst a transformation and needed to be able to design with a common language and consistent aesthetic.
 * There was a lot of duplication of work across delivery teams.
 
 #### What's the problem

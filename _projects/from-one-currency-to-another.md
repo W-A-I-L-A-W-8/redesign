@@ -8,7 +8,7 @@ date: 2020-06-30 00:00:00
 featured_image: forexMob_1.jpg
 accent_color: "#041212"
 gallery_images:
-- forexMob_1.jpg
+- ForexFeature.png
 
 ---
 _For confidentiality reasons some content may have been omitted or altered.  In some instances, the designs have been reinterpreted_
