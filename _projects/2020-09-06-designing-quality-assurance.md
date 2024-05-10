@@ -1,8 +1,8 @@
 ---
 title: Crafting accessible patterns for diverse audiences
-subtitle: Building inclusive and scalable design guidelines
+subtitle: Consistency for people, improved collaboration amongst delivery teams with scalability benefits.
 date: 2021-06-30 00:00:00
-description: Consistency for users, improved collaboration amongst delivery teams with scalability benefits.
+description: Playing the role of UX Designer and Researcher I contributed to user research, usability testing and the design system. The Team consisted of myself, UI Designer, Product Lead, Platforms Engineer and a Drupal Developer.
 featured_image: designQA_feature2.jpg
 accent_color: "#041212"
 gallery_images:
