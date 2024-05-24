@@ -1,8 +1,8 @@
 ---
 title: Finding direction amongst the chaos
 description: How might you design for a 'greenfields' project that has no specific goals or a clear vision.
-featured_image: '/images/posts/greenfields_1.jpg'
-published: false
+featured_image: '/images/posts/greenfields_feature.jpg'
+published: true
 ---
 
 #### What is Greenfield Product Development?

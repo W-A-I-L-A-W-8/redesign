@@ -3,20 +3,20 @@ basic_settings:
   site_title: Wai Law
   favicon_image: "/images/favicon.ico"
 header_settings:
-  logo_image: "/images/wailaw-stylised-pic.png"
-  logo_width: "60"
+  logo_image:
+  logo_width:
 menu_settings:
   menu_items:
-  - title:
-    url:
-  - title:
-    url:
+  - title: Work
+    url: /
+  - title: Insights
+    url: /blog/
 footer_settings:
   logo_image:
   logo_width: "50"
-  tagline: Making people smile
+  tagline: Bringing digital joy to people
 hero_settings:
-  background_image:
+  background_image: "/images/backgrounds/background-hero.svg"
 post_settings:
   grid_spacing: "10"
 contact_settings:
@@ -174,6 +174,6 @@ advanced_settings:
     src="https://www.googletagmanager.com/gtag/js?id=UA-63812507-1"></script> <script>   window.dataLayer
     = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js',
     new Date());    gtag('config', 'UA-63812507-1'); </script>
-  custom_styles: '.recent-posts {background-color: #f4f5f6;}.listing {margin-top: 120px;} '
+  custom_styles:
   header_js: ''
   footer_js: ''

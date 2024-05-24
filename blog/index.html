@@ -8,8 +8,8 @@ featured_image: /images/social.jpg
 <div class="page-blog">
 	<header class="header--single">
 		<div class="wrap">
-			<!-- <h1 class="header__title">Blog</h1>
-			<p class="header__subtitle subtitle--light">Find out what I've been up through my latest photo blogging adventures.</p> -->
+			<h1 class="header__title">Insights</h1>
+			<p class="header__subtitle subtitle--light">Design systems, Accessibility and Human Centred Design.</p>
 		</div>
 	</header>
 
@@ -28,11 +28,11 @@ featured_image: /images/social.jpg
 
 						<div class="post__content-wrap">
 							<div class="post__content">
-								<time class="post__date label--small">{{ post.date | date: "%B %d, %Y" }}</time>
+								<!-- <time class="post__date label--small">{{ post.date | date: "%B %d, %Y" }}</time> -->
 								<h2 class="post__title h4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 								<p class="post__subtitle">{{ post.subtitle }}</p>
 								<p class="post__description">{{ post.description }}</p>
-								<a href="{{ post.url | relative_url }}" class="post__link button--text--accent --right">Keep Reading</a>
+								<a href="{{ post.url | relative_url }}" class="post__link button--text--accent --right">Read {{ post.title }}</a>
 							</div>
 						</div>
 					</div>

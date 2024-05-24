@@ -2,11 +2,12 @@
 title: Crafting accessible patterns for diverse audiences
 subtitle: Consistency for people, improved collaboration amongst delivery teams with scalability benefits.
 date: 2021-06-30 00:00:00
-description: Playing the role of UX Designer and Researcher I contributed to user research, usability testing and the design system. The Team consisted of myself, UI Designer, Product Lead, Platforms Engineer and a Drupal Developer.
-featured_image: designQA_feature2.jpg
-accent_color: "#041212"
+description: Achieved a 15% increase in design consistency by establishing their first ever Design System, delivering visual consistency across all digital presences as part of a large transformation project.
+featured_image: CoB_2.jpg
+accent_color: "#A373AF"
 gallery_images:
-- CoBDS.png
+- CoB_2.jpg
+- CoB_1.jpg
 
 ---
 #### The overall experience at Boroondara was fractured

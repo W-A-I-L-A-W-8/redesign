@@ -1,13 +1,13 @@
 ---
 title: Introducing our new friend, Smart Travel Assistant
-subtitle: Exploring AI and developing a strategy for integrating a chatbot solution
+subtitle: Exploring conversational user interfaces.
 date: 2020-09-30 00:00:00
-description: This piece is about how I contributed to developing a strategy for implementing an AI/ML
+description: This is about how I contributed to developing a strategy for implementing an AI/ML
   solution to solve the organisation's customer satisfaction problem.
-featured_image: chatbot-1.png
-accent_color: "#041212"
+featured_image: Chat_1.jpg
+accent_color: "#9D5993"
 gallery_images:
-- ChatbotFeature.png
+- Chat_1.jpg
 
 ---
 #### Use of AI in the Travel Industry
@@ -22,7 +22,7 @@ For us Experience Designers a large part of the job is to design products and di
 
 Streamlining operations to improve the booking experience for customers.  With machine learning there was a great opportunity for creating dynamic content and increased customer service efficiency.
 
-#### Solution
+#### The Idea
 
 AI was to play a big part in helping to alleviate user pain points. We understood the power of automation and the goal of completing a digital transformation program to include chatbot implementation and dynamically driven content applications driven by AI was to be instrumental in doing so.  Just as SkyScanner had done before us we were looking at a chatbot solution to become our smart travel assistance.
 

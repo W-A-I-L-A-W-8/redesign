@@ -3,10 +3,10 @@ layout: post
 title: Embracing the UI Challenge
 description: A guide to tackling the UI Challenge
 featured_image: '/images/posts/uiChallenge_1.png'
-published: false
+published: true
 ---
 
-Your bread and butter as a designer, well...is to design.  Once in while you may get asked to knock-up some quick UI concepts.  It could be for a new role or your existing organisation may require some sort of POC.  Commonly, they'll both have nothing to give you in terms of a brief or a spec.  This is pretty standard, so get used to it!  It is even more common that you will be given a screen grab of a previous or current design that they are wishing to improve upon.  This is commonly known in the field as a design challenge.  The idea being to tease your creativity and tease out some new ideas.
+Your bread and butter as a designer, well...is to design. Once in while you may get asked to knock-up some quick UI concepts.  It could be for a new role or your existing organisation may require some sort of POC.  Commonly, they'll both have nothing to give you in terms of a brief or a spec but whole lot ambiguity. This is pretty standard, so get used to it!  It is even more common that you will be given a screen grab of a previous or current design that they are wishing to improve upon.  This is commonly known in the field as a design challenge. The idea being to tease your creativity and tease out some new ideas.
 
 > “Here's one I made earlier.”
 
@@ -20,7 +20,7 @@ Your bread and butter as a designer, well...is to design.  Once in while you may
 
 I would recommend using a tool you're familiar with as the learning curve associated with learning something new will inevitably add time to your challenge. So go with Sketch, XD, whatever floats your boat. Choosing to ignore my own advice I decided to fire up a trial version of MockPlus.
 
-### Apply some UX fundamentals
+### Apply some UX fundamentals  
 This dashboard was looking some what cluttered and a bit dated.  It was in need of a quick makeover.  I took some time to review the challenge and the screen above and attempted to get into my 'Experience Design' head-space.  I viewed it from a user's perspective to see which elements in the interface were causing me the most cognitive friction.  I was attempting to anticipate the overall feel for the user.
 
 Next step...apply some of the principles of how a good user interface should look.

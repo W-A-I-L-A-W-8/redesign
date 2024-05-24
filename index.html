@@ -1,8 +1,8 @@
 ---
 layout: default
-overtitle: Empathising, creating and making since 2010
-title: Evidence-led, Inclusive, Diverse, Digital experiences
-description: Uncover troublesome UX and increase customer satisfaction. Build strong accessibility standards within your digital presence. Easily govern consistency across initiatives.
+overtitle: Conducting and Designing Digital UX since 2010
+title: Evidence-led, Inclusive, Digital Experiences
+description: I deliver actionable insights to optimise troublesome customer journeys and integrate accessible user interfaces.
 featured_image: /images/wailaw-stylised-pic.png
 ---
 
@@ -22,33 +22,13 @@ featured_image: /images/wailaw-stylised-pic.png
 			<p class="intro subtitle--light">
 				{{ page.description }}
 				<!-- <a href="#" class="hero__cta button--fill contact-trigger js-contact">Resume</a> -->
-				<a title="Download CV in MS Word format" href="https://wailaw.me/cv_wailaw_ProductUXDesigner_talent.docx" class="hero__cta contact-trigger">Get my cv</a>
+				<a title="Download CV in a friendly format" href="https://wailaw.me/Contractor_cv_wailaw_UXDesigner.docx" class="hero__cta contact-trigger">Get my cv</a>
 			</p>
 		</div>
 	</section>
 
-	<section class="recent-posts">
-		<div class="wrap grid">
-			<header class="recent-posts__header">
-				<h4>On-demand UX Support</h4>
-				<!-- <a href="{{ '/blog/' | relative_url }}" class="action button--text--accent --right">All posts</a> -->
-				<p class="intro subtitle--light">
-					 <a href="https://calendly.com/designwithwai/30min"><strong>Let's talk</strong></a>, get started with a quick audit. My name is <strong>Wai</strong>, rhymes with hay and the month of May. Need my help on a complex contract? Save a copy of my <a title="Download CV in MS Word format" href="https://wailaw.me/cv_wailaw_ProductUXDesigner_talent.docx">CV</a> and get in touch.
-				</p>
-			</header>
-
-			<div class="recent-posts__list grid">
-				{% for post in site.posts limit: 6 %}
-				{% include component__post-preview.html %}
-				{% endfor %}
-			</div>
-
-			<!-- <a href="{{ '/blog/' | relative_url }}" class="action-bottom button--text--accent --right">Posts</a> -->
-		</div>
-	</section>
-
 	<section class="listing">
-		{% include component__review.html %}
+
 		<div class="wrap">
 
 			{% for project in site.projects reversed %}
@@ -80,5 +60,25 @@ featured_image: /images/wailaw-stylised-pic.png
 
 	</section>
 
-		{% include component__review1.html %}
+	{% include section__about.html %}
+
+	<section class="recent-posts">
+		<div class="wrap grid">
+			<header class="recent-posts__header">
+				<h4>Insights</h4>
+				<a href="{{ '/blog/' | relative_url }}" class="action button--text--accent --right">All Articles</a>
+				<p class="intro subtitle--light">
+					A curated selection of articles which you may find insightful.
+				</p>
+			</header>
+
+			<div class="recent-posts__list grid">
+				{% for post in site.posts limit: 3 %}
+				{% include component__post-preview.html %}
+				{% endfor %}
+			</div>
+
+			<!-- <a href="{{ '/blog/' | relative_url }}" class="action-bottom button--text--accent --right">Posts</a> -->
+		</div>
+	</section>
 </div>
