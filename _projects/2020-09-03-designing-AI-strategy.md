@@ -8,6 +8,7 @@ featured_image: Chat_1.jpg
 accent_color: "#9D5993"
 gallery_images:
 - Chat_1.jpg
+- Chat_2.jpg
 
 ---
 #### Use of AI in the Travel Industry

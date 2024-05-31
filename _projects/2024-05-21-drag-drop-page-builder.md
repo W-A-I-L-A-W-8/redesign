@@ -10,6 +10,7 @@ gallery_images:
 - DnD_2.jpg
 
 ---
+_Apologies, this is currently an unfinished piece of writing. Read whats here and feel free to check back soon!_
 
 _For confidentiality reasons some content may have been omitted or altered.  In some instances, the designs have been reinterpreted_
 
@@ -78,13 +79,20 @@ The tool had to accommodate different working styles, whether users preferred dr
 #### Ideation: Extracting actionable insights from research
 I ran a design workshop to tease out ideas. At this stage, there were no limits. All ideas considered. It was a broad concepts, anything goes phase. Sketches and wireframes welcome. We generated heaps of ideas, from AI created pages to form based wizards. We were now able to visualise all potential use cases and begin thinking about the user stories.
 
-_Apologies, this is currenty an unfinished piece of writing. Please check back soon!_
+#### Shaping Interactions
+The primary component, a sidebar containing multiple core elements enabling users to simply, choose, drag and drop elements onto their page. Simple page interactions such as state and cursor changes provide great visual cues.
 
-<!-- #### Prototyping
-I fired up Figma and created interactive prototype to evaluate some of our use cases. I created simple interactions and tested these internally and with a handful of clients.
+{% include post-components/gallery.html
+	columns = 1
+	full_width = true
+	images = "/images/projects/widget_properties.jpg"
+%}
 
-#### Early Feedback
-Stakeholders and customers loved the simplicity and flexibility. Testing also revealed some unknown UX issues.
+#### Summary
+Designing a user-friendly, accessible drag and drop page builder was a rewarding challenge. By focusing on the needs and experiences of our persona, I was able to design a tool that not only met but exceeded their expectations. This case study highlights the power of human centred design and the importance of accessibility in creating tools that resonate with users and drive business success.
 
-#### Conclusion
-Designing a user-friendly, accessible drag and drop page builder was a rewarding challenge. By focusing on the needs and experiences of the Brand Manager persona, I was able to deign a tool that not only met but exceeded their expectations. This case study highlights the power of human centred design and the importance of accessibility in creating tools that resonate with users and drive business success. -->
+{% include post-components/gallery.html
+	columns = 1
+	full_width = true
+	images = "/images/projects/brandyDemo.gif"
+%}

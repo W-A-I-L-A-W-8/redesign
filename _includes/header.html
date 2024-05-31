@@ -3,9 +3,8 @@
 	<div class="wrap grid__2-col">
 
 		{% if site.data.settings.header_settings.logo_image %}
-		<a href="{{ site.baseurl }}/" class="header__logo">
+		<a href="{{ site.baseurl }}/" class="header__logo header__title">
 			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img">
-
 		</a>
 		{% else %}
 		<a href="{{ site.baseurl }}/" class="header__title">
