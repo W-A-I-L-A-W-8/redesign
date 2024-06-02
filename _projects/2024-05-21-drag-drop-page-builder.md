@@ -88,8 +88,8 @@ The primary component, a sidebar containing multiple core elements enabling user
 	images = "/images/projects/widget_properties.jpg"
 %}
 
-#### Summary
-Designing a user-friendly, accessible drag and drop page builder was a rewarding challenge. By focusing on the needs and experiences of our persona, I was able to design a tool that not only met but exceeded their expectations. This case study highlights the power of human centred design and the importance of accessibility in creating tools that resonate with users and drive business success.
+#### Parting Thoughts
+Designing a user-friendly, accessible drag and drop page builder was a rewarding and fun. By focusing on the needs and experiences of our persona, I was able to design a tool that not only met but exceeded their expectations. This highlights the power of human centred design and the importance of accessibility in creating tools that resonate with users and drive business success.
 
 {% include post-components/gallery.html
 	columns = 1
