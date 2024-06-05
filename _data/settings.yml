@@ -14,7 +14,7 @@ menu_settings:
 footer_settings:
   logo_image:
   logo_width: "50"
-  tagline: Bringing digital joy to people
+  tagline: 
 hero_settings:
   background_image: "/images/backgrounds/background-hero.svg"
 post_settings:
@@ -174,6 +174,6 @@ advanced_settings:
     src="https://www.googletagmanager.com/gtag/js?id=UA-63812507-1"></script> <script>   window.dataLayer
     = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js',
     new Date());    gtag('config', 'UA-63812507-1'); </script>
-  custom_styles:
+  custom_styles: ''
   header_js: ''
   footer_js: ''
