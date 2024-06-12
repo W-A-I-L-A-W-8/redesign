@@ -20,22 +20,22 @@ Here's a few things to consider before you plough head-first into Jekyll.  Not s
 
 * Understanding of NPM.
 * Comfortable using a CLI.
-* Knowledge / experienc of templating languages (preferrably Liquid Templating).
+* Knowledge / experience of templating languages (preferably Liquid Templating).
 * Theme customisation.
 * Decent SASS skills so you can customise till your heart's content.
 * Working knowledge of Github or happy to try.
 
 #### Why did I switch to Jekyll?
-After many years working with WordPress I was finding it increasingly cumbersome.  The experience was some what frustrating,
-slow and painful to manage.  I felt it was a bit overkill for my needs and I was craving a solution that was simple to maintain, flexible and lightweight.
+After many years working with WordPress I was finding it increasingly cumbersome. The experience was some what frustrating,
+slow and painful to manage. I felt it was a bit overkill for my needs and I was craving a solution that was simple to maintain, flexible and lightweight.
 
 #### So, I chose Jekyll
-And that's the reason we're here talking about Jekyll.  Even for me, I discovered it was ridiculously simple.  What's more simplistic than taking plain text files and converting them into static websites.  I enjoy a bit of coding from time to time but as a designer my focus is on the design stuff and it was no different building my own website.  I wanted a painless, quick solution to get my portfolio up and running.
+And that's the reason we're here talking about Jekyll. Even for me, I discovered it was ridiculously simple. What's more simplistic than taking plain text files and converting them into static websites.  I enjoy a bit of coding from time to time but as a designer my focus is on the design stuff and it was no different building my own website.  I wanted a painless, quick solution to get my portfolio up and running.
 
 #### Is there anything else out there?
 Before settling on my choice, I reviewed other static site generators such as Gatsby, Hugo and many others but what attracted me to Jekyll was it's sheer simplicity and as it was well documented.
 
-The other thing that caught my attention was that, I could have my site up and running in a matter of seconds.  The prerequisites are minimal (especially if you own a Mac) and being able to host your website for free on [Github Pages](https://pages.github.com/) was very appealing.  There was also an additional bonus of being able to serve it via [Cloudflare](https://www.cloudflare.com/en-au/).
+The other thing that caught my attention was that, I could have my site up and running in a matter of seconds. The prerequisites are minimal (especially if you own a Mac) and being able to host your website for free on [Github Pages](https://pages.github.com/) was very appealing.  There was also an additional bonus of being able to serve it via [Cloudflare](https://www.cloudflare.com/en-au/).
 
 From a design side I was able to theme it with one of many gem based themes thus keeping it minimal with only the features I required.  Following on from this I could choose to customise and style to my liking.
 
