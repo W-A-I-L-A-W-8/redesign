@@ -5,7 +5,7 @@ featured_image: '/images/posts/Inclusive_feature.jpg'
 published: true
 ---
 
-I wanted to share the importance of designing inclusively. The following information was collated from various online resources and summarised on this page for easy content consumption.
+Do you design inclusively? Why is it important? The following information has been collated from various online resources and summarised on this page for your consumption.
 
 In today's fast-paced digital landscape, ensuring that everyone can access and use online services is more crucial than ever. Inclusive design focuses on creating digital content and tools that everyone can use, is essential in an increasingly connected Australia.
 
@@ -25,25 +25,25 @@ Inclusive design often leads to better usability overall. When accessibility is 
 Another crucial part of inclusive design is understanding the diverse needs of your audience. This means considering various disabilities, such as visual, auditory, cognitive, and motor impairments. Conducting user research and engaging directly with people who have disabilities can provide valuable insights that help shape more inclusive products.
 
 ###### Empathy in Design
-At its core, empathy is at the heart of human centred design. By putting yourself in the shoes of users with different abilities, you can better understand their challenges and create solutions that address their needs. This could involve using screen readers, voice commands or alternative navigation methods in your designs. The following information, published by the UK Government, provides some great insight into a variety of user profiles and <a href="https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles">understanding of disabilities and impairments</a>.
+At its core, empathy is at the heart of human centred design. Put yourself in the shoes of users with different abilities, you will better understand their challenges and develop creations that address their needs. You might consider involving using screen readers, voice commands or alternative navigation methods in your designs. The following information, published by the UK Government, provides some great insight into a variety of user profiles and <a href="https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles">understanding of disabilities and impairments</a>. Check it out!
 
 ###### Collaboration and Feedback
 Speaking with diverse user groups during the design and testing phases elicits feedback to identify accessibility issues that might not be apparent to those without disabilities. Iterative testing and incorporating feedback ensure that the final product is truly inclusive.
 
 #### Paving the way forward
-In what ways can Australian businesses, government agencies and non-profit organisations embrace the benefits of inclusive design and take action.
+How do Australian businesses, government agencies and non-profit organisations embrace the benefits of inclusive design and take action?
 
 ###### Education and Training
 Investing in education and training for designers, developers and content creators on accessibility standards and best practices is key. This includes understanding guidelines like the Web Content Accessibility Guidelines (WCAG) and how to apply them.
 
 ###### User Involvement
-Proactively engage with users who have disabilities throughout the design process ensuring that digital products meet real-world needs. This user centred approach provides valuable insights for more effective and empathetic design solutions.
+Proactively engage with users who have disabilities throughout the design process ensuring that digital products meet real-world needs. This user centred approach provides valuable insights for more effective and empathetic design.
 
 ###### Continuous improvement
 Accessibility is not just a quick-fix or an afterthought before a product is launched. It is essential to maintain and improve accessibility over time through regular audits, user feedback and updates.
 
 #### Embracing inclusive design
-This is especially important now, as digital services become more integrated into our daily lives. It is not just about following the law and a checklist of standards as an afterthought, it makes good business sense and drives innovation. Committing to accessibility ensures that all people can engage with, contribute to and benefit from the digital world.
+This is especially important now, as digital services become more integrated into our daily lives. It is not just about following the law and a checklist of standards, it makes good business sense and encourages innovation. Committing to accessibility ensures that all people can engage with, contribute to and benefit from the digital world.
 
 ###### Resources
 My findings were obtained from some of the following resources.

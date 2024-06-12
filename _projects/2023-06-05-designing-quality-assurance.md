@@ -1,8 +1,8 @@
 ---
-title: Crafting accessible patterns for diverse audiences
-subtitle: Consistency for people, improved collaboration amongst delivery teams with scalability benefits.
+title: Crafting accessible UI patterns for diverse audiences
+subtitle: Inclusive for people, improved collaboration amongst delivery teams with scalability benefits.
 date: 2021-06-30 00:00:00
-description: Achieved a 15% increase in design consistency by establishing their first ever Design System, delivering visual consistency across all digital presences as part of a large transformation project.
+description: Achieved a 15% increase in design consistency by establishing their first ever Design System, delivering visual consistency across all digital channels as part of a large transformation project.
 featured_image: CoB_2.jpg
 accent_color: "#A373AF"
 gallery_images:

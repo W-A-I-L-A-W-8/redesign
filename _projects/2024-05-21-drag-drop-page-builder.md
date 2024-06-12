@@ -2,7 +2,7 @@
 title: Designing a page builder people will love
 subtitle: Reimagining an outdated HTML builder as an accessible drag and drop brand page creator.
 date: 2021-06-30 00:00:00
-description: Embarking on a journey to transform a HTML builder into an intuitive, accessible drag and drop page builder with an aim of making web page creation enjoyable and efficient for all. Regardless of abilities, everyone can create stunning pages with ease.
+description: A journey to transform a HTML builder into an intuitive, accessible drag and drop page builder that makes web page creation enjoyable and simple for all. Everyone can create stunning pages with ease.
 featured_image: DnD_1.jpg
 accent_color: "#A88CC8"
 gallery_images:
@@ -10,12 +10,10 @@ gallery_images:
 - DnD_2.jpg
 
 ---
-_Apologies, this is currently an unfinished piece of writing. Read whats here and feel free to check back soon!_
-
 _For confidentiality reasons some content may have been omitted or altered.  In some instances, the designs have been reinterpreted_
 
-#### Overview
-Embarking on a journey to transform a dated HTML builder into an intuitive, accessible drag and drop page builder. Our mission? To make web page creation enjoyable and efficient, ensuring that everyone, regardless of their abilities, can craft stunning pages with ease.
+#### Background
+Embarking on a journey to transform a dated HTML builder into something more suited to our user's needs, both intuitive and accessible. The mission? To make web page creation enjoyable and efficient, ensuring that everyone, regardless of their abilities, can craft stunning pages with ease.
 
 #### Challenge
 The starting point was an antiquated HTML builder. Both unfriendly and inaccessible. It was clearly aimed at the wrong audience and built by Engineers in a knee-jerk reaction to an urgent client request.
@@ -88,8 +86,19 @@ The primary component, a sidebar containing multiple core elements enabling user
 	images = "/images/projects/widget_properties.jpg"
 %}
 
+#### Simulating Widget Movement
+An early Figma prototype for testing how a widget might behave when being dragged onto the canvas.
+
+{% include post-components/gallery.html
+	columns = 1
+	full_width = true
+	images = "/images/projects/simulatingWidgetMovement.gif"
+%}
+
 #### Parting Thoughts
-Designing a user-friendly, accessible drag and drop page builder was a rewarding and fun. By focusing on the needs and experiences of our persona, I was able to design a tool that not only met but exceeded their expectations. This highlights the power of human centred design and the importance of accessibility in creating tools that resonate with users and drive business success.
+Designing a user-friendly, accessible drag and drop page builder was rewarding and fun. By focusing on the needs and experiences of our persona, I was able to design a tool that not only met but exceeded their expectations. This highlights the power of human centred design and the importance of accessibility in creating tools that resonate with users and drive business success.
+
+###### MVP of the outcome
 
 {% include post-components/gallery.html
 	columns = 1
