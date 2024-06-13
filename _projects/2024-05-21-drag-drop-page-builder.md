@@ -1,8 +1,8 @@
 ---
 title: Designing a page builder people will love
-subtitle: Reimagining an outdated HTML builder as an accessible drag and drop brand page creator.
+subtitle: Reimagining an outdated HTML builder as a human centred drag and drop brand page creator.
 date: 2021-06-30 00:00:00
-description: A journey to transform a HTML builder into an intuitive, accessible drag and drop page builder that makes web page creation enjoyable and simple for all. Everyone can create stunning pages with ease.
+description: A journey to transform a HTML builder into an intuitive drag and drop page builder that makes web page creation enjoyable and simple for all. Everyone can create stunning pages with ease.
 featured_image: DnD_1.jpg
 accent_color: "#A88CC8"
 gallery_images:
@@ -13,7 +13,7 @@ gallery_images:
 _For confidentiality reasons some content may have been omitted or altered.  In some instances, the designs have been reinterpreted_
 
 #### Background
-Embarking on a journey to transform a dated HTML builder into something more suited to our user's needs, both intuitive and accessible. The mission? To make web page creation enjoyable and efficient, ensuring that everyone, regardless of their abilities, can craft stunning pages with ease.
+Embarking on a journey to transform a dated HTML builder into something more suited to our user's needs. The mission? To make web page creation enjoyable and efficient, ensuring that everyone, regardless of their abilities, can craft stunning pages with ease.
 
 #### Challenge
 The starting point was an antiquated HTML builder. Both unfriendly and inaccessible. It was clearly aimed at the wrong audience and built by Engineers in a knee-jerk reaction to an urgent client request.
