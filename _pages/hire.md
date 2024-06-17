@@ -13,18 +13,14 @@ I am curious and introspective. I am most interested in designing accessible, me
 %}
 
 #### Here are some things I can do for you
-The following are digital transformation problems that play to my strengths and where I can deliver great results.
+The following are digital transformation problems that play to my strengths. Historically, I have delivered notable results in these areas for the organisations I work with.
 
 | Expertise                 | Benefit        | The Three Phases of Design	 |
 |----------------------|---------------|------------------|-------|
-| Goal conversion enhancement   | Audit existing customer and user journeys, the information hierarchy, optimise designs, test and convert | Exploration              |
+| Goal conversion enhancement | Audit existing customer and user journeys, the information hierarchy, optimise designs, test and convert | Exploration |
 | Usability Studies   | Validate designs early with prototype testing and uncover areas of improvement early | Evaluation              |
 | Design System Optimisation | Translate your visual identity into clearly defined asset and component libraries. Improves collaboration and scalability | Creation              |
-| Accessibility Audit | Ensure your digital platforms are designed to be accessible and inclusive for diverse audiences. Achieve strong web content accessibility guideline standards | Exploration and Creation              |
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
+| Accessibility Audit | Ensure your digital platforms are designed to be accessible and inclusive for diverse audiences. Achieve strong WCAG compliance | Exploration and Creation              |
 
 #### How can we work together?
 You can set up a contract with me. I can work under an ABN or PAYE.
@@ -56,9 +52,9 @@ If you are interested to learn more contact me using <a href="mailto:hello@waila
 <a class="cta button--fill" href="https://calendly.com/designwithwai/30min">Book a call</a>
 
 #### Who am I?
-I hale from the small seaside town of Hunstanton which you should find in Google. Typically, I grew up in a Chinese restaurant that my parents owned and went to my local high school. During my time there, the late Queen Elizabeth II visited m school and awarded the main building a Grade 2 Listed status. For those interested it was and still is a brutalist style of architecture.
+I hale from the small seaside town of Hunstanton in the UK. You might find it in Google Maps. Typically, I grew up in a Chinese restaurant that my parents owned and went to my local high school. During my time there, the late Queen Elizabeth II visited m school and awarded the main building a Grade 2 Listed status. For those interested it was and still is a brutalist style of architecture.
 
-I have a wife, a pair of children and a Scottish Terrier and we all live in Melbourne, Australia. I love tiny home videos, whisky cocktails and I've walked a marathon but I'm yet to run one.
+I have a wife, a pair of children, a Scottish Terrier and we all live in Melbourne, Australia. I love tiny home videos, whisky cocktails and I've walked a marathon but I'm yet to run one.
 
 {% include post-components/gallery.html
 	columns = 4
