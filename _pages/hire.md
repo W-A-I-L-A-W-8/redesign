@@ -13,14 +13,18 @@ I am curious and introspective. I am most interested in designing accessible, me
 %}
 
 #### Here are some things I can do for you
-I offer these services because they play to my strengths and they can be packaged up to give you clear visibility of what you will get.
-* Accessibility Audit
-* Translate your visual identity into clearly defined asset and component libraries
-* Optimise your Design System
-* Establishing a Design System
-* SaaS UI Design Outputs
-* Usability Studies
-* Goal conversion enhancements - Audit existing user journeys, the information hierarchy, improve the design, test and convert.
+The following are digital transformation problems that play to my strengths and where I can deliver great results.
+
+| Expertise                 | Benefit        | The Three Phases of Design	 |
+|----------------------|---------------|------------------|-------|
+| Goal conversion enhancement   | Audit existing customer and user journeys, the information hierarchy, optimise designs, test and convert | Exploration              |
+| Usability Studies   | Validate designs early with prototype testing and uncover areas of improvement early | Evaluation              |
+| Design System Optimisation | Translate your visual identity into clearly defined asset and component libraries. Improves collaboration and scalability | Creation              |
+| Accessibility Audit | Ensure your digital platforms are designed to be accessible and inclusive for diverse audiences. Achieve strong web content accessibility guideline standards | Exploration and Creation              |
+
+[^1]: Beautiful modern, minimal theme design.
+[^2]: Powerful features to show off your work.
+[^3]: Maintained and supported by the theme developer.
 
 #### How can we work together?
 You can set up a contract with me. I can work under an ABN or PAYE.
