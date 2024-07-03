@@ -13,7 +13,7 @@ I am curious and introspective. I am most interested in designing accessible, me
 %}
 
 #### Here are some things I can do for you
-The following are digital transformation problems that play to my strengths. Historically, I have delivered notable results in these areas for the organisations I work with.
+Historically, I have delivered notable results in these areas for the organisations I work with.
 
 | Expertise                 | Benefit        | The Three Phases of Design	 |
 |----------------------|---------------|------------------|-------|
