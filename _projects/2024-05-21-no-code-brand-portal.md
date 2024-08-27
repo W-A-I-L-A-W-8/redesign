@@ -1,6 +1,6 @@
 ---
-title: Designing a brand portal people will love
-subtitle: Reimagining an outdated HTML builder as a human centred drag and drop brand page creator.
+title: From HTML builder to no code brand portal
+subtitle: Reimagining an outdated HTML builder as a drag and drop experience.
 date: 2021-06-30 00:00:00
 description: A journey to transform a HTML builder into an intuitive drag and drop page builder that makes web page creation enjoyable and simple for all. Everyone can create stunning pages with ease.
 featured_image: DnD_1.jpg

@@ -1,6 +1,6 @@
 ---
-title: Optimising self-service for mobile
-subtitle: Improving the mobile experience so customers can find and complete tasks efficiently.
+title: Optimising self-service capability
+subtitle: Improving the digital customer experience.
 date: 2021-06-30 00:00:00
 description: How taking a mobile-first approach led to higher completion rates and a huge spike in mobile phone users.
 featured_image: CoB 5.jpg

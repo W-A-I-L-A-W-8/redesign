@@ -1,5 +1,5 @@
 ---
-title: Introducing our new friend, Smart Travel Assistant
+title: Discovering Smart Travel Assistants
 subtitle: Exploring conversational user interfaces.
 date: 2020-09-30 00:00:00
 description: This is about how I contributed to developing a strategy for implementing an AI/ML

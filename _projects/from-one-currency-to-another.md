@@ -1,9 +1,7 @@
 ---
 title: Redesigning the flow of funds
-subtitle: Engaging currency exchange
-description: On a short term tenure with a limited budget and access to users, this is
-  the story of how I reconceptualised the user experience of an existing platform
-  where design was not originally a consideration.
+subtitle: Creating engaging currency exchange interactions
+description: On a short term tenure with a limited budget and access to users, I redesigned the key user journeys.
 date: 2020-06-30 00:00:00
 featured_image: funds_1.jpg
 accent_color: "#ADA4DF"
